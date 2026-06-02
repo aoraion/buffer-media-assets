@@ -1,0 +1,87 @@
+[
+  {
+    "id": "mexico-city-lluvia-fuerte",
+    "target_language": "Spanish",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "schedule_date": "2026-06-09",
+    "native_phrase": "Está lloviendo muy fuerte.",
+    "meaning": "It’s raining really hard.",
+    "slides": [
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/mexico-city-lluvia-fuerte/mexico-city-lluvia-fuerte-slide-01.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/mexico-city-lluvia-fuerte/mexico-city-lluvia-fuerte-slide-02.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/mexico-city-lluvia-fuerte/mexico-city-lluvia-fuerte-slide-03.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/mexico-city-lluvia-fuerte/mexico-city-lluvia-fuerte-slide-04.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/mexico-city-lluvia-fuerte/mexico-city-lluvia-fuerte-slide-05.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/mexico-city-lluvia-fuerte/mexico-city-lluvia-fuerte-slide-06.png"
+    ]
+  },
+  {
+    "id": "montreal-il-fait-lourd",
+    "target_language": "French",
+    "city": "Montréal",
+    "country": "Canada",
+    "schedule_date": "2026-06-16",
+    "native_phrase": "Il fait lourd aujourd’hui.",
+    "meaning": "It feels heavy / muggy today.",
+    "slides": [
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/montreal-il-fait-lourd/montreal-il-fait-lourd-slide-01.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/montreal-il-fait-lourd/montreal-il-fait-lourd-slide-02.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/montreal-il-fait-lourd/montreal-il-fait-lourd-slide-03.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/montreal-il-fait-lourd/montreal-il-fait-lourd-slide-04.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/montreal-il-fait-lourd/montreal-il-fait-lourd-slide-05.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/montreal-il-fait-lourd/montreal-il-fait-lourd-slide-06.png"
+    ]
+  },
+  {
+    "id": "taipei-typhoon-coming",
+    "target_language": "Chinese",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "schedule_date": "2026-06-25",
+    "native_phrase": "颱風快來了。",
+    "meaning": "The typhoon is coming soon.",
+    "slides": [
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/taipei-typhoon-coming/taipei-typhoon-coming-slide-01.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/taipei-typhoon-coming/taipei-typhoon-coming-slide-02.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/taipei-typhoon-coming/taipei-typhoon-coming-slide-03.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/taipei-typhoon-coming/taipei-typhoon-coming-slide-04.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/taipei-typhoon-coming/taipei-typhoon-coming-slide-05.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/taipei-typhoon-coming/taipei-typhoon-coming-slide-06.png"
+    ]
+  },
+  {
+    "id": "busan-pokyeom-warning",
+    "target_language": "Korean",
+    "city": "Busan",
+    "country": "South Korea",
+    "schedule_date": "2026-07-07",
+    "native_phrase": "폭염주의보가 내려졌어요.",
+    "meaning": "A heatwave advisory has been issued.",
+    "slides": [
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/busan-pokyeom-warning/busan-pokyeom-warning-slide-01.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/busan-pokyeom-warning/busan-pokyeom-warning-slide-02.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/busan-pokyeom-warning/busan-pokyeom-warning-slide-03.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/busan-pokyeom-warning/busan-pokyeom-warning-slide-04.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/busan-pokyeom-warning/busan-pokyeom-warning-slide-05.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/busan-pokyeom-warning/busan-pokyeom-warning-slide-06.png"
+    ]
+  },
+  {
+    "id": "kyoto-yuudachi-coming",
+    "target_language": "Japanese",
+    "city": "Kyoto",
+    "country": "Japan",
+    "schedule_date": "2026-07-15",
+    "native_phrase": "夕立が来そうです。",
+    "meaning": "Looks like an evening shower is coming.",
+    "slides": [
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/kyoto-yuudachi-coming/kyoto-yuudachi-coming-slide-01.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/kyoto-yuudachi-coming/kyoto-yuudachi-coming-slide-02.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/kyoto-yuudachi-coming/kyoto-yuudachi-coming-slide-03.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/kyoto-yuudachi-coming/kyoto-yuudachi-coming-slide-04.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/kyoto-yuudachi-coming/kyoto-yuudachi-coming-slide-05.png",
+      "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-01/wl-carousel-production-summer-rain-heat-v1-2-review/buffer-export-foreign-language-carousels/kyoto-yuudachi-coming/kyoto-yuudachi-coming-slide-06.png"
+    ]
+  }
+]
