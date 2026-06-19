@@ -1,0 +1,35 @@
+{
+  "source": "/Users/bettybot/clawd/weather-lingo/agents/hana/content-vault/social-review/2026-06-19/wl-approved-carousel-madrid-heat-photo-v4-cron/media",
+  "files": [
+    {
+      "file": "/Users/bettybot/clawd/github/buffer-media-assets/weather-lingo/images/carousels/2026-06-19/madrid-heat-que-calor-photo-v4/madrid-heat-que-calor-photo-rebuild-v4-slide-01.png",
+      "sha256": "4131afa14415df698c8ae7932e0039df144728cd3bd419d021490e584e3f0d06",
+      "bytes": 806871
+    },
+    {
+      "file": "/Users/bettybot/clawd/github/buffer-media-assets/weather-lingo/images/carousels/2026-06-19/madrid-heat-que-calor-photo-v4/madrid-heat-que-calor-photo-rebuild-v4-slide-02.png",
+      "sha256": "5147bbd64ed7e2a34132c8513d270d5c7c52e031fda0aacded3ae7ccfc646b72",
+      "bytes": 295428
+    },
+    {
+      "file": "/Users/bettybot/clawd/github/buffer-media-assets/weather-lingo/images/carousels/2026-06-19/madrid-heat-que-calor-photo-v4/madrid-heat-que-calor-photo-rebuild-v4-slide-03.png",
+      "sha256": "56222c99148681e50b934b2586b9e2f5a037d2a2063c3248943e3d8ebfbc1bc9",
+      "bytes": 443198
+    },
+    {
+      "file": "/Users/bettybot/clawd/github/buffer-media-assets/weather-lingo/images/carousels/2026-06-19/madrid-heat-que-calor-photo-v4/madrid-heat-que-calor-photo-rebuild-v4-slide-04.png",
+      "sha256": "3c2951e5d1d92d98ffbaaf2a6e255081fdd7bc598a03440df1fe02c134a345dc",
+      "bytes": 123438
+    },
+    {
+      "file": "/Users/bettybot/clawd/github/buffer-media-assets/weather-lingo/images/carousels/2026-06-19/madrid-heat-que-calor-photo-v4/madrid-heat-que-calor-photo-rebuild-v4-slide-05.png",
+      "sha256": "84545280f8bbce8cdf8f10974ae70057d1b4a2e898c5f6b1df89dbde50eb7582",
+      "bytes": 566846
+    },
+    {
+      "file": "/Users/bettybot/clawd/github/buffer-media-assets/weather-lingo/images/carousels/2026-06-19/madrid-heat-que-calor-photo-v4/madrid-heat-que-calor-photo-rebuild-v4-slide-06.png",
+      "sha256": "4e81c773b31f746114d1f3415f4f7e2d85dfbfd9084df2cda34f6a12011b81d7",
+      "bytes": 105969
+    }
+  ]
+}
