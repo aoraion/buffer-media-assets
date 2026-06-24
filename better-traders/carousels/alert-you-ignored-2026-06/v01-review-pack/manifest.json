@@ -1,0 +1,27 @@
+{
+  "carousel": "The Alert You Ignored",
+  "status": "review_ready",
+  "produced_at_jst": "2026-06-24 13:19 JST",
+  "review_only": true,
+  "scheduled": false,
+  "lead": "RAY",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "output_dir": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/",
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/tbt-alert-you-ignored-contact-sheet-v01-review.png",
+  "slides": [
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/tbt-alert-you-ignored-slide-01-v01-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/tbt-alert-you-ignored-slide-02-v01-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/tbt-alert-you-ignored-slide-03-v01-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/tbt-alert-you-ignored-slide-04-v01-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/tbt-alert-you-ignored-slide-05-v01-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/tbt-alert-you-ignored-slide-06-v01-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/alert-you-ignored-2026-06/v01-review-pack/tbt-alert-you-ignored-slide-07-v01-review.png"
+  ],
+  "qa": {
+    "dimensions": "all individual slides verified 1080x1080; contact sheet exists",
+    "layout": "locked overlay applied; transparent stacked TBT logo only on slides 1 and 7; bottom counter/dots on all slides; Swipe -> omitted on final slide",
+    "copy": "Opus-refined copy; educational alert/preparation framing; no financial advice, signal promise, ticker, price, P&L, or broker UI claims",
+    "visual_review": "contact sheet inspected; text avoids faces/hair/eyes/key expressions; protagonist remains Ray with story-beat variance"
+  },
+  "next_queue_item": "The Trade You Didn’t Take"
+}
