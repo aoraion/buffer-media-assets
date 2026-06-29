@@ -1,0 +1,29 @@
+{
+  "title": "Three Markets, One Account",
+  "status": "REVIEW READY - V02 SQUARE REGENERATION",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-06-29T06:07:58.764583Z",
+  "revision_note": "V02 regenerated all base images natively as 1:1 square; slide 5 desk cards made explicit/clear per Aaron feedback.",
+  "lead": "JESS",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "slides": [
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/three-markets-one-account-2026-06/v02-square-regeneration-review-pack/tbt-three-markets-one-account-slide-01-v02-square-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/three-markets-one-account-2026-06/v02-square-regeneration-review-pack/tbt-three-markets-one-account-slide-02-v02-square-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/three-markets-one-account-2026-06/v02-square-regeneration-review-pack/tbt-three-markets-one-account-slide-03-v02-square-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/three-markets-one-account-2026-06/v02-square-regeneration-review-pack/tbt-three-markets-one-account-slide-04-v02-square-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/three-markets-one-account-2026-06/v02-square-regeneration-review-pack/tbt-three-markets-one-account-slide-05-v02-square-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/three-markets-one-account-2026-06/v02-square-regeneration-review-pack/tbt-three-markets-one-account-slide-06-v02-square-review.png",
+    "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/three-markets-one-account-2026-06/v02-square-regeneration-review-pack/tbt-three-markets-one-account-slide-07-v02-square-review.png"
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/three-markets-one-account-2026-06/v02-square-regeneration-review-pack/tbt-three-markets-one-account-contact-sheet-v02-square-review.png",
+  "qa": {
+    "dimensions": "all generated bases are native square 1024x1024; exports are 1080x1080",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "compliance": "educational market-conditions framing; no real tickers, prices, P&L, broker UI, profit claims, or signal claims",
+    "copy_gate": "Claude Opus copy pass completed; Hermes enforced brand/compliance constraints",
+    "journal_rule": "no Better Traders Journal cover used or composited in this carousel",
+    "aaron_feedback": "corrected non-square prompt issue; slide 5 now shows clear strategy/weather cards instead of vague filler"
+  }
+}
