@@ -1,0 +1,23 @@
+{
+  "schedulingType": "automatic",
+  "mode": "addToQueue",
+  "text": "A plan is only as good as your ability to follow it. The challenge is rarely writing the rules — it is executing them at 3am, on the hundredth setup, when nothing feels exciting anymore.\n\nThis is where automation earns its place. A bot does not get tired, distracted, or restless. It executes the parameters you defined exactly as written, every time, without the urge to act just because the screen is quiet.\n\nBut automation is not a replacement for the trader. It is an extension of your discipline. You still decide the strategy, the risk, the conditions, and when to step in or step away.\n\nLet the system carry the parts that fatigue erodes. You make the call.\n\nEducational content only. Not financial advice.\n\n#TheBetterTraders #CryptoTrading #TradingEducation #TradingPlan",
+  "assets": [
+    {"image": {"url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-bot-doesnt-get-bored-20260630-v02/better-traders/carousels/bot-doesnt-get-bored-2026-06/v02-review-pack/tbt-bot-doesnt-get-bored-slide-01-v02-review.png", "metadata": {"altText": "The Bot Does Not Get Bored carousel slide 1 of 7", "dimensions": {"width": 1080, "height": 1080}}}},
+    {"image": {"url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-bot-doesnt-get-bored-20260630-v02/better-traders/carousels/bot-doesnt-get-bored-2026-06/v02-review-pack/tbt-bot-doesnt-get-bored-slide-02-v02-review.png", "metadata": {"altText": "The Bot Does Not Get Bored carousel slide 2 of 7", "dimensions": {"width": 1080, "height": 1080}}}},
+    {"image": {"url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-bot-doesnt-get-bored-20260630-v02/better-traders/carousels/bot-doesnt-get-bored-2026-06/v02-review-pack/tbt-bot-doesnt-get-bored-slide-03-v02-review.png", "metadata": {"altText": "The Bot Does Not Get Bored carousel slide 3 of 7", "dimensions": {"width": 1080, "height": 1080}}}},
+    {"image": {"url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-bot-doesnt-get-bored-20260630-v02/better-traders/carousels/bot-doesnt-get-bored-2026-06/v02-review-pack/tbt-bot-doesnt-get-bored-slide-04-v02-review.png", "metadata": {"altText": "The Bot Does Not Get Bored carousel slide 4 of 7", "dimensions": {"width": 1080, "height": 1080}}}},
+    {"image": {"url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-bot-doesnt-get-bored-20260630-v02/better-traders/carousels/bot-doesnt-get-bored-2026-06/v02-review-pack/tbt-bot-doesnt-get-bored-slide-05-v02-review.png", "metadata": {"altText": "The Bot Does Not Get Bored carousel slide 5 of 7", "dimensions": {"width": 1080, "height": 1080}}}},
+    {"image": {"url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-bot-doesnt-get-bored-20260630-v02/better-traders/carousels/bot-doesnt-get-bored-2026-06/v02-review-pack/tbt-bot-doesnt-get-bored-slide-06-v02-review.png", "metadata": {"altText": "The Bot Does Not Get Bored carousel slide 6 of 7", "dimensions": {"width": 1080, "height": 1080}}}},
+    {"image": {"url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-bot-doesnt-get-bored-20260630-v02/better-traders/carousels/bot-doesnt-get-bored-2026-06/v02-review-pack/tbt-bot-doesnt-get-bored-slide-07-v02-review.png", "metadata": {"altText": "The Bot Does Not Get Bored carousel slide 7 of 7", "dimensions": {"width": 1080, "height": 1080}}}}
+  ],
+  "source": "hermes-tbt-bot-doesnt-get-bored-carousel-v02",
+  "aiAssisted": false,
+  "channelId": "69d8a6b3031bfa423ceb17b5",
+  "metadata": {
+    "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+    }
+  }
+}
