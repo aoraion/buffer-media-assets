@@ -1,0 +1,77 @@
+{
+  "title": "The Bot Does Not Get Bored",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-06-30T04:21:42.748688+00:00",
+  "lead": "THEO",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Opus copy pass completed; Hermes enforced The Better Traders brand name and compliance constraints.",
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/bot-doesnt-get-bored-2026-06/v01-review-pack/tbt-bot-doesnt-get-bored-slide-01-v01-review.png",
+      "sha256": "f37892dfef9e4e9c4381daf15d974ec8e2f469e371cacfd741661ff65ebf33c5",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/bot-doesnt-get-bored-2026-06/v01-review-pack/tbt-bot-doesnt-get-bored-slide-02-v01-review.png",
+      "sha256": "3b5bbf7de1caa7e57b4c2286974bf97b16125cc63367d322f355e2368797bcc5",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/bot-doesnt-get-bored-2026-06/v01-review-pack/tbt-bot-doesnt-get-bored-slide-03-v01-review.png",
+      "sha256": "25ac5ceccbdc999b4e22d6adc9fa0aa7a56238cb04036f3d791d76c8805c91f3",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/bot-doesnt-get-bored-2026-06/v01-review-pack/tbt-bot-doesnt-get-bored-slide-04-v01-review.png",
+      "sha256": "9409dea1919c25781979abda1bee90e41875461ea4d5ccd25a59a9505b3e4fe1",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/bot-doesnt-get-bored-2026-06/v01-review-pack/tbt-bot-doesnt-get-bored-slide-05-v01-review.png",
+      "sha256": "9ffd64dac22c36e3fa7f06b489dee309136b096e5455e1a983f3cdaa74373e6c",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/bot-doesnt-get-bored-2026-06/v01-review-pack/tbt-bot-doesnt-get-bored-slide-06-v01-review.png",
+      "sha256": "567ca6f42031464b093a7fd3c6f79c08c09780ad60dfefcf11baac5b7b6e3611",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/bot-doesnt-get-bored-2026-06/v01-review-pack/tbt-bot-doesnt-get-bored-slide-07-v01-review.png",
+      "sha256": "13698fe6b8b4ab2b888aab9b83d5b95edc2251b100a98d2dfad1b0d7c8195a32",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/bot-doesnt-get-bored-2026-06/v01-review-pack/tbt-bot-doesnt-get-bored-contact-sheet-v01-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "compliance": "education on automation discipline; no real tickers, prices, P&L, broker UI, profit claims, or signal claims",
+    "journal_rule": "no Better Traders Journal cover used or composited in this carousel",
+    "review_gate": "review-only; not scheduled"
+  }
+}
