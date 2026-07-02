@@ -1,0 +1,77 @@
+{
+  "title": "The Quiet Money Move",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-02T04:51:44.345580+00:00",
+  "lead": "DANI",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Opus copy pass completed; Hermes tightened overlay copy, preserved The Better Traders brand name, and enforced compliance constraints.",
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/quiet-money-move-2026-07/v02-review-pack/tbt-quiet-money-move-slide-01-v02-review.png",
+      "sha256": "afa700bae364c19769f5237a72014cfd4b2a04894426b5c63ffe16c18aceabe0",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/quiet-money-move-2026-07/v02-review-pack/tbt-quiet-money-move-slide-02-v02-review.png",
+      "sha256": "b138fa9a4ca765c208ca6b24af3369e7a232b0f66b67131fac594756df24f6fa",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/quiet-money-move-2026-07/v02-review-pack/tbt-quiet-money-move-slide-03-v02-review.png",
+      "sha256": "774337e97c78223117df6a9240f9d310746c72042d0ce83981447d2751471d83",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/quiet-money-move-2026-07/v02-review-pack/tbt-quiet-money-move-slide-04-v02-review.png",
+      "sha256": "be72face8b287a6f85ae405c419ea9f1c318ef298b9ee73024413e42ff3e133d",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/quiet-money-move-2026-07/v02-review-pack/tbt-quiet-money-move-slide-05-v02-review.png",
+      "sha256": "e69052b2341f4c3d026d4f567554a112ccd2f5a30e9a024f9b210adb5b99707b",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/quiet-money-move-2026-07/v02-review-pack/tbt-quiet-money-move-slide-06-v02-review.png",
+      "sha256": "feb1fed8bed357200e4cb55c8af4c19cd0acc6d01d4a3ceb941893e554002cd2",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/quiet-money-move-2026-07/v02-review-pack/tbt-quiet-money-move-slide-07-v02-review.png",
+      "sha256": "200434cf84a2aa6b0ce9cdb05c13597297146a0fec66a23b7463e4077bd1fa2d",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/quiet-money-move-2026-07/v02-review-pack/tbt-quiet-money-move-contact-sheet-v02-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "compliance": "stablecoin preservation framed as risk/process education; no yield, safety, profit, signal, ticker, price, P&L, or broker UI claims",
+    "journal_rule": "no Better Traders Journal cover used or composited in this carousel",
+    "review_gate": "review-only; not scheduled"
+  }
+}
