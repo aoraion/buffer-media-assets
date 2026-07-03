@@ -1,0 +1,77 @@
+{
+  "title": "The 15-Minute Setup You Skipped",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-03T04:20:28.553320+00:00",
+  "lead": "JESS",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Opus copy pass completed; Hermes tightened overlay copy, preserved The Better Traders brand name, and enforced compliance constraints.",
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-slide-01-v01-review.png",
+      "sha256": "aebe00173fa27c999b6a4546413a8459728b2d2f85b4055b4adee63e31127f89",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-slide-02-v01-review.png",
+      "sha256": "f645941475fbad424780b31edd342354291bb095d5a4e830872f1fd233e3cbf9",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-slide-03-v01-review.png",
+      "sha256": "e319dc285a89c4bf34ddb66e8c1f54d6a2b0b61e47f1497d5d2582b85bb32ed8",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-slide-04-v01-review.png",
+      "sha256": "ddaae15637138c447e6c619c3acc503a21c79917d096a6613544ef8d9e1521c7",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-slide-05-v01-review.png",
+      "sha256": "014fbc69edf296ff3deea5598c9d3304d88f8f2c711cbda54d9ad729e8b8bf16",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-slide-06-v01-review.png",
+      "sha256": "b281bef98b820320fb4699671b075fa9b8760ac4515efa42ee1aeeac0a6a7474",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-slide-07-v01-review.png",
+      "sha256": "5373a5d285de339b77d20fe1d142f283c5abb4a45dda439da587bcc61bad7108",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-contact-sheet-v01-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "compliance": "security/process education only; no real tickers, prices, P&L, profit promises, signal claims, broker UI, or exchange logos",
+    "journal_rule": "no Better Traders Journal cover used or composited in this carousel",
+    "review_gate": "review-only; not scheduled"
+  }
+}
