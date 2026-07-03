@@ -1,8 +1,8 @@
 {
   "title": "The 15-Minute Setup You Skipped",
-  "status": "REVIEW READY",
-  "review_only": true,
-  "scheduled": false,
+  "status": "SCHEDULED",
+  "review_only": false,
+  "scheduled": true,
   "created_at": "2026-07-03T04:20:28.553320+00:00",
   "lead": "JESS",
   "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",

@@ -3,8 +3,8 @@
 **Style lock name:** `TBT Carousel`  
 **Approved format reference:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/`  
 **Status:** review/production queue; schedule only after explicit Aaron approval per carousel.  
-**Last updated:** 2026-07-02
-**Last cron check:** 2026-07-02 13:22 JST — non-blocking loop continued past stale/review-ready #2, #3, #4, #5, #6, #8, and #9. #10 `The Quiet Money Move` was produced as a finished review-ready pack; #11 `Fat Finger Phishing Is Real` is promoted to NEXT for the next weekday run.
+**Last updated:** 2026-07-03
+**Last cron check:** 2026-07-03 13:02 JST — non-blocking loop continued past stale/review-ready #2, #3, #4, #5, #6, #8, #9, and #11. #12 `The 15-Minute Setup You Skipped` was produced, approved by Aaron, and scheduled to TBT Buffer on 2026-07-03. #11 is rejected for a full concept redo: Fat Finger Fishing is an exciting/safe AB trading strategy about getting filled on a surprise dump at an extremely low entry and selling the rebound for profit, not a phishing/trap story.
 
 ## Locked format rules
 
@@ -47,10 +47,10 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 | 7 | Three Markets, One Account | DONE / approved + scheduled | JESS | Bull/bear/sideways adaptation |
 | 8 | The Bot Doesn’t Get Bored | REVIEW READY | THEO | DCA bots + automation |
 | 9 | Scaling Out: The Greed Tax | REVIEW READY | RAY | Scaling out profits |
-| 10 | The Quiet Money Move | REVIEW READY | DANI | Stablecoin profit preservation |
-| 11 | Fat Finger Phishing Is Real | NEXT | MARCUS | AB/channel traps + stop hunts |
-| 12 | The 15-Minute Setup You Skipped | QUEUED | JESS | Secure setup + Altrady |
-| 13 | The Chart Was Telling You | QUEUED | RAY | TradingView + TBO |
+| 10 | The Quiet Money Move | DONE / approved + scheduled | DANI | Stablecoin profit preservation |
+| 11 | Fat Finger Fishing Is Real | REDO — concept rejected | MARCUS | AB surprise-dump fill + rebound profit |
+| 12 | The 15-Minute Setup You Skipped | DONE / approved + scheduled | JESS | Secure setup + Altrady |
+| 13 | The Chart Was Telling You | NEXT | RAY | TradingView + TBO |
 | 14 | You Can’t Find What You Can’t Scan | QUEUED | THEO | Better Crypto Scanner + volume converter |
 | 15 | The Plan You Never Wrote Down | QUEUED | JESS | Trading plan + review |
 
@@ -295,30 +295,32 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 ---
 
-## 11. Fat Finger Phishing Is Real
+## 11. Fat Finger Fishing Is Real
 
-**Status:** NEXT — promoted after #10 review pack was produced 2026-07-02.  
-**Lead:** MARCUS.  
-**Hook:** Someone is fishing for your panic-sell.  
-**Course/concept angle:** AB trading, channel trades, wick traps, stop hunts/fat finger phishing concept.  
+**Status:** REDO — concept rejected by Aaron 2026-07-03. The v01 pack was wrong visually and narratively: protagonist drifted between ethnicities and the story treated this like phishing/traps. Full redo required; do not schedule v01.  
+**Lead:** MARCUS — keep the same Black man throughout all seven slides.  
+**Hook:** The dump filled him while everyone else panicked.  
+**Course/concept angle:** AB Trading “Fat Finger Fishing” strategy: a safer/exciting AB tactic where surprise dumps can fill very low bids, then the rebound is sold for a large profit.  
 **Arc:**
-1. Sudden wick down. No warning.
-2. Stops get hit.
-3. Price snaps back like nothing happened.
-4. That was not always random.
-5. Some levels are designed to bait reactions.
-6. AB structure helps you see the trap.
-7. Learn the game before you become the liquidity.
+1. Fat Finger Fishing Is Real.
+2. Marcus had his bid waiting below the noise.
+3. The surprise dump hit fast.
+4. His order filled where nobody wanted it.
+5. The panic wick snapped back.
+6. He sold the rebound, not the emotion.
+7. The safest AB trades are planned before the dump.
 
-**Image prompt direction:** Marcus watching an abstract red wick pierce a horizontal channel zone, then rebound. Use visual metaphor of fishing line/hook subtly in chart glow, not cartoonish.  
-**Compliance note:** educational market-structure explanation; no prediction or “avoid every wick” claim.  
-**Next action:** hold until active slot.
+**Image prompt direction:** same Marcus throughout; same wardrobe, face, desk/lighting. Show abstract surprise red dump wick into a low waiting bid zone, then rebound/profit-taking metaphor. No real tickers, prices, P&L, broker UI, exchange logos, or readable order book. Avoid phishing, scam, hooks, bait, passwords, or security metaphors.  
+**Compliance note:** educational AB strategy explanation; no prediction, no guaranteed fill/profit, and no exact entry/exit advice.  
+**Rejected v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-phishing-2026-07/v01-review-pack/`  
+**Rejected v01 render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-phishing-2026-07/render_v01_tbt_locked.py`  
+**Next action:** produce a full redo pack from corrected concept; preserve Marcus identity across all slides; do not schedule v01.
 
 ---
 
 ## 12. The 15-Minute Setup You Skipped
 
-**Status:** QUEUED.  
+**Status:** DONE / approved + scheduled — v01 approved by Aaron and scheduled to TBT Buffer on 2026-07-03.  
 **Lead:** JESS.  
 **Hook:** The most expensive shortcut in trading is a sloppy setup.  
 **Course/concept angle:** secure account setup, exchange/API hygiene, Altrady setup/trading terminal.  
@@ -333,13 +335,18 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 **Image prompt direction:** Jess onboarding: password manager/2FA phone, clean terminal setup, checklists, API-key visual as locked/key icon only. No exchange logos.  
 **Compliance note:** security/process education.  
-**Next action:** hold until active slot.
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/v01-review-pack/tbt-15-minute-setup-skipped-contact-sheet-v01-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/render_v01_tbt_locked.py`  
+**Buffer schedule summary:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/15-minute-setup-skipped-2026-07/buffer-schedule-v01/buffer-schedule-summary.json`  
+**Buffer posts:** Instagram `thebettertraders` post `6a475e30b1b2c34380e09e8e` due 2026-07-04 09:40 JST; Facebook `The Better Traders` post `6a475e447beaa67952aea77e` due 2026-07-03 20:59 JST.  
+**Next action:** scheduled; no further action unless Aaron asks for a post-publish audit or adaptation.
 
 ---
 
 ## 13. The Chart Was Telling You
 
-**Status:** QUEUED.  
+**Status:** NEXT — promoted after #12 review pack was produced 2026-07-03.  
 **Lead:** RAY.  
 **Hook:** The signal was on the screen. You just had not learned to read it.  
 **Course/concept angle:** TradingView, TBO Indicator, TBO active strategies.  
