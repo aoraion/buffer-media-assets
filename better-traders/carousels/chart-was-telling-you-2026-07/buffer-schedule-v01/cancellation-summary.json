@@ -1,0 +1,21 @@
+{
+  "status": "cancelled_for_revision",
+  "reason": "Aaron requested rerender of slides 3-7 after scheduling: slide 3 ambiguous chart/hands; slides 4-7 squished/insufficient variety.",
+  "cancelled_posts": [
+    {
+      "platform": "instagram",
+      "channel": "thebettertraders",
+      "post_id": "6a4b2b2e7e52c06f81c05bbc",
+      "delete_result_file": "delete-6a4b2b2e7e52c06f81c05bbc.json",
+      "post_delete_get_file": "post-delete-get-6a4b2b2e7e52c06f81c05bbc.json"
+    },
+    {
+      "platform": "facebook",
+      "channel": "The Better Traders",
+      "post_id": "6a4b2b559dd66bf2fd5da276",
+      "delete_result_file": "delete-6a4b2b559dd66bf2fd5da276.json",
+      "post_delete_get_file": "post-delete-get-6a4b2b559dd66bf2fd5da276.json"
+    }
+  ],
+  "verification": "Both post-delete get checks returned Post not found."
+}

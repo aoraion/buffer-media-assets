@@ -1,0 +1,77 @@
+{
+  "title": "The Chart Was Telling You",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-06T04:33:46.053907+00:00",
+  "lead": "RAY",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Opus copy pass completed; Hermes shortened overlay copy, preserved exact The Better Traders brand name, and enforced TBO/no-prediction compliance constraints.",
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v02-review-pack/tbt-chart-was-telling-you-slide-01-v02-review.png",
+      "sha256": "0f1bd220432dd69be9617320940dc759e2e04bc356637d9b22391689ca05bc03",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v02-review-pack/tbt-chart-was-telling-you-slide-02-v02-review.png",
+      "sha256": "39c1e041e15224c5cef16f92b0ceba2d8c9ccd305b0aabe65982e450c870ceef",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v02-review-pack/tbt-chart-was-telling-you-slide-03-v02-review.png",
+      "sha256": "15a250e67e4bb004042d7bd1fe48a7205a874fb4cfb81a5e36151558b71fd5dc",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v02-review-pack/tbt-chart-was-telling-you-slide-04-v02-review.png",
+      "sha256": "9742420ed14f73d6c4ec183dd9e4f3a86085c9fd5f0442d3dbcbe76cfc812f2a",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v02-review-pack/tbt-chart-was-telling-you-slide-05-v02-review.png",
+      "sha256": "898f1e96f5a1413f7a39320ebd1506e96c1fcf975ae4e7edb2d7541bb784d637",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v02-review-pack/tbt-chart-was-telling-you-slide-06-v02-review.png",
+      "sha256": "f3bf468c9a15f7fef4466d3e73cfe547f4c25c3de49c86ed3aa7ca3390b3693c",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v02-review-pack/tbt-chart-was-telling-you-slide-07-v02-review.png",
+      "sha256": "7ab6df238e75ff4711476f6c6bc5385729d5445050b617da46c1508d1f8909c1",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v02-review-pack/tbt-chart-was-telling-you-contact-sheet-v02-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "compliance": "TradingView/TBO education; no real tickers, prices, P&L, broker UI, profit claims, prediction claims, or signal guarantees",
+    "journal_rule": "no Better Traders Journal cover used or composited in this carousel",
+    "review_gate": "review-only; not scheduled"
+  }
+}
