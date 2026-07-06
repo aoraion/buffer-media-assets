@@ -1,0 +1,91 @@
+{
+  "branch": "tbt-chart-was-telling-you-20260706-v01",
+  "raw_base": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack",
+  "assets": [
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/tbt-chart-was-telling-you-slide-01-v01-review.png",
+        "metadata": {
+          "altText": "The Chart Was Telling You carousel slide 1 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/tbt-chart-was-telling-you-slide-02-v01-review.png",
+        "metadata": {
+          "altText": "The Chart Was Telling You carousel slide 2 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/tbt-chart-was-telling-you-slide-03-v01-review.png",
+        "metadata": {
+          "altText": "The Chart Was Telling You carousel slide 3 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/tbt-chart-was-telling-you-slide-04-v01-review.png",
+        "metadata": {
+          "altText": "The Chart Was Telling You carousel slide 4 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/tbt-chart-was-telling-you-slide-05-v01-review.png",
+        "metadata": {
+          "altText": "The Chart Was Telling You carousel slide 5 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/tbt-chart-was-telling-you-slide-06-v01-review.png",
+        "metadata": {
+          "altText": "The Chart Was Telling You carousel slide 6 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/tbt-chart-was-telling-you-slide-07-v01-review.png",
+        "metadata": {
+          "altText": "The Chart Was Telling You carousel slide 7 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    }
+  ],
+  "created_at": "2026-07-06T04:12:28.821509+00:00"
+}
