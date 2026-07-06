@@ -1,0 +1,77 @@
+{
+  "title": "You Can't Find What You Can't Scan",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-06T04:45:16.125544+00:00",
+  "lead": "THEO",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Opus copy pass completed; Hermes tightened overlay copy, preserved exact The Better Traders brand name, and enforced scanner finds candidates not winners compliance.",
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v02-review-pack/tbt-you-cant-find-what-you-cant-scan-slide-01-v02-review.png",
+      "sha256": "f76ef6c3dc35c9e41e14515355f799c84f314f97506ac2ed389117ab6a82dfe7",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v02-review-pack/tbt-you-cant-find-what-you-cant-scan-slide-02-v02-review.png",
+      "sha256": "41722c92ad565e5384c8650ed227442e9f362b2c0f0dfb0200a377467c36821f",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v02-review-pack/tbt-you-cant-find-what-you-cant-scan-slide-03-v02-review.png",
+      "sha256": "7bb9ffe039d2735f154113c2cd7c34f983b60b67626e731c72c59fed3b60cc14",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v02-review-pack/tbt-you-cant-find-what-you-cant-scan-slide-04-v02-review.png",
+      "sha256": "c6124765a3cac8402480ce46db3f15a4c6d1e2e7526660e3c3882d34787f3455",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v02-review-pack/tbt-you-cant-find-what-you-cant-scan-slide-05-v02-review.png",
+      "sha256": "6265df06d692749c7c6694f8efdd1fece57fd415fa6d222c16b6435a6350eb4a",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v02-review-pack/tbt-you-cant-find-what-you-cant-scan-slide-06-v02-review.png",
+      "sha256": "24f65323234a105c8597c35045f0679fe98ec25c0193413546700e4a9220ca95",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v02-review-pack/tbt-you-cant-find-what-you-cant-scan-slide-07-v02-review.png",
+      "sha256": "cdd0b03299ff2e02c0f01c7a247d62f9b70c30cd8650da299c4502905e5699df",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v02-review-pack/tbt-you-cant-find-what-you-cant-scan-contact-sheet-v02-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "compliance": "Better Crypto Scanner/TBT Volume Converter education; no real tickers, prices, P&L, broker UI, profit claims, signal guarantees, or winner claims",
+    "journal_rule": "no Better Traders Journal cover used or composited in this carousel",
+    "review_gate": "review-only; not scheduled"
+  }
+}
