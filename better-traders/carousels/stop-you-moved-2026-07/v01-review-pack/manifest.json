@@ -1,0 +1,87 @@
+{
+  "title": "The Stop You Moved",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-07T04:12:40.445871+00:00",
+  "lead": "DANI",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Opus copy pass completed; Hermes tightened overlay copy, preserved exact The Better Traders brand name, and kept all claims educational/process-only.",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_130450_321031ca.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_130622_8a50c289.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_130718_8e6ebf4f.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_130833_e4b9bdc2.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_130942_028b4014.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_131038_430e4f41.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_131133_f19b6c7b.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-slide-01-v01-review.png",
+      "sha256": "8e93946390afde0edf7996ed6a878aa5f2a2f54c5580f786f3b6a08b4f2b4403",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-slide-02-v01-review.png",
+      "sha256": "2e6bdf1117bcb6bfedea59c3884a41e27f3f711173c9316cdd700785fc0d8c02",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-slide-03-v01-review.png",
+      "sha256": "6c96566892daabd615afe50b3526727160df0bca56bcae98ceeb8f7258ed3661",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-slide-04-v01-review.png",
+      "sha256": "029947a57a9448074dd0ea9c12dd29944008c4a9a0bfd92d0dba59f6c51c1cac",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-slide-05-v01-review.png",
+      "sha256": "2af5a339db5f0314bf45b841e05f372c420a90ec8b3b7d41b4718279d1d1dc9f",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-slide-06-v01-review.png",
+      "sha256": "29abc024ac7d6c4c503e84d66e519ad65b936f3f7ab0223a6f7ba1422f9ea6ca",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-slide-07-v01-review.png",
+      "sha256": "e8941fae55c05cc9f403af624ecd0b9730f2227751bbe495d0ac5ef2aa3ab52f",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-contact-sheet-v01-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "visuals": "Dani remains the protagonist with varied angles and risk-discipline emotion beats",
+    "compliance": "risk/process education only; no real tickers, prices, P&L, broker UI, profit claims, or signal guarantees",
+    "journal_rule": "no Better Traders Journal cover used or composited; notebook pages are generic process props",
+    "review_gate": "review-only; not scheduled"
+  }
+}
