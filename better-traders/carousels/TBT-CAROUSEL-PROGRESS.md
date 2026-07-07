@@ -422,7 +422,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 ## 16. The Stop You Moved
 
-**Status:** REDO REVIEW READY — v04 produced 2026-07-07 after Aaron clarified slide 06 needed handwritten journal text, not typed overlay. Slide 04 keeps the distinct v03 over-shoulder stop-line angle; slide 06 now shows a handwritten-style underlined rule on the journal page (`I honor my stop.`). Review-only; not scheduled.  
+**Status:** REDO REVIEW READY — v05 produced 2026-07-07 after Aaron clarified slide 06 needed a newly generated journal image, not a synthetic text overlay. Slide 04 keeps the distinct v03 over-shoulder stop-line angle; slide 06 now uses a new image with the handwritten rule baked into the page (`My invalidation is set before I enter.`). Review-only; not scheduled.  
 **Lead:** DANI.  
 **Hook:** Moving a stop feels like control in the moment, but it usually just moves the decision farther away.  
 **Course/concept angle:** stop/invalidation discipline, rule-first risk management, emotional trade management.  
@@ -437,9 +437,10 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 **Image prompt direction:** Dani at the warm late-night desk; focus on character emotion, posture, hands, journal, and paper chart. Shot ladder: wide establishing → hand/pen insert → medium close tension → tight conflicted close-up → direct honest close-up → high-angle journal rule insert → calm medium-wide resolution. Screens should be off/dim/background only; no AI graphics, holographic screens, or external-display-driven storytelling. No real tickers, prices, P&L, broker UI, buy/sell labels, or signal claims.  
 **Compliance note:** risk/process education only; no outcome promise and no exact entry/exit advice.  
-**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v04-review-pack/`  
-**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v04-review-pack/tbt-stop-you-moved-contact-sheet-v04-review.png`  
-**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/render_v04_tbt_locked.py`  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-contact-sheet-v05-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/render_v05_tbt_locked.py`  
+**Previous v04 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v04-review-pack/`  
 **Previous v03 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v03-review-pack/`  
 **Previous v02 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v02-review-pack/`  
 **Rejected v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/`  
