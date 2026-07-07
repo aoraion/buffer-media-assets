@@ -53,7 +53,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 | 13 | The Chart Was Telling You | REVIEW READY | RAY | TradingView + TBO |
 | 14 | You Can’t Find What You Can’t Scan | REVIEW READY | THEO | Better Crypto Scanner + volume converter |
 | 15 | The Plan You Never Wrote Down | REVIEW READY | JESS | Trading plan + review |
-| 16 | The Stop You Moved | REDO REVIEW READY | DANI | Stop/invalidation discipline |
+| 16 | The Stop You Moved | DONE / SCHEDULED | DANI | Stop/invalidation discipline |
 
 ---
 
@@ -422,7 +422,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 ## 16. The Stop You Moved
 
-**Status:** REDO REVIEW READY — v05 produced 2026-07-07 after Aaron clarified slide 06 needed a newly generated journal image, not a synthetic text overlay. Slide 04 keeps the distinct v03 over-shoulder stop-line angle; slide 06 now uses a new image with the handwritten rule baked into the page (`My invalidation is set before I enter.`). Review-only; not scheduled.  
+**Status:** DONE / SCHEDULED — v05 approved and scheduled 2026-07-07 after Aaron clarified slide 06 needed a newly generated journal image, not a synthetic text overlay. Slide 04 keeps the distinct v03 over-shoulder stop-line angle; slide 06 uses a new image with the handwritten rule baked into the page (`My invalidation is set before I enter.`).  
 **Lead:** DANI.  
 **Hook:** Moving a stop feels like control in the moment, but it usually just moves the decision farther away.  
 **Course/concept angle:** stop/invalidation discipline, rule-first risk management, emotional trade management.  
@@ -440,6 +440,8 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 **Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/`  
 **Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-contact-sheet-v05-review.png`  
 **Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/render_v05_tbt_locked.py`  
+**Buffer schedule artifacts:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/buffer-schedule-v05/`  
+**Scheduled posts:** Instagram `6a4cb05cfcafb1c323312ccb` due 2026-07-09 06:35 JST; Facebook `6a4cb08420e3d16f6586695e` due 2026-07-08 21:41 JST. X skipped because 7-slide carousel.  
 **Previous v04 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v04-review-pack/`  
 **Previous v03 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v03-review-pack/`  
 **Previous v02 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v02-review-pack/`  
