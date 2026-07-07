@@ -53,7 +53,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 | 13 | The Chart Was Telling You | REVIEW READY | RAY | TradingView + TBO |
 | 14 | You Can’t Find What You Can’t Scan | REVIEW READY | THEO | Better Crypto Scanner + volume converter |
 | 15 | The Plan You Never Wrote Down | REVIEW READY | JESS | Trading plan + review |
-| 16 | The Stop You Moved | REVIEW READY | DANI | Stop/invalidation discipline |
+| 16 | The Stop You Moved | REDO REVIEW READY | DANI | Stop/invalidation discipline |
 
 ---
 
@@ -422,7 +422,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 ## 16. The Stop You Moved
 
-**Status:** REVIEW READY — produced 2026-07-07 as a finished 7-slide review pack using the locked TBT Carousel overlay. Review-only; not scheduled.  
+**Status:** REDO REVIEW READY — v02 produced 2026-07-07 after Aaron rejected v01’s flat/repetitive Chat Image 2 visuals. Claude Worker feedback was collected first and incorporated: character-first visual storytelling, a stronger shot-scale ladder, journal/paper chart as the story prop, and no AI/holographic screen crutch. Review-only; not scheduled.  
 **Lead:** DANI.  
 **Hook:** Moving a stop feels like control in the moment, but it usually just moves the decision farther away.  
 **Course/concept angle:** stop/invalidation discipline, rule-first risk management, emotional trade management.  
@@ -435,11 +435,13 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 6. She wrote the rule.
 7. Calmer from here.
 
-**Image prompt direction:** Dani at the warm late-night desk, abstract charts only, visual progression from tense stop approach to written invalidation rule to calmer process. No real tickers, prices, P&L, broker UI, buy/sell labels, or signal claims.  
+**Image prompt direction:** Dani at the warm late-night desk; focus on character emotion, posture, hands, journal, and paper chart. Shot ladder: wide establishing → hand/pen insert → medium close tension → tight conflicted close-up → direct honest close-up → high-angle journal rule insert → calm medium-wide resolution. Screens should be off/dim/background only; no AI graphics, holographic screens, or external-display-driven storytelling. No real tickers, prices, P&L, broker UI, buy/sell labels, or signal claims.  
 **Compliance note:** risk/process education only; no outcome promise and no exact entry/exit advice.  
-**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/`  
-**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-contact-sheet-v01-review.png`  
-**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/render_v01_tbt_locked.py`  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v02-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v02-review-pack/tbt-stop-you-moved-contact-sheet-v02-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/render_v02_tbt_locked.py`  
+**Rejected v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/`  
+**Claude Worker feedback:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/claude-feedback-v01-redo.md`  
 **Next action:** await Aaron review/changes/approval. Do not schedule until explicit approval; do not let this block future queue production if more items are added.
 
 ---
