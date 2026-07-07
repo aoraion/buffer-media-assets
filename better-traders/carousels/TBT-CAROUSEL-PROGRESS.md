@@ -3,8 +3,8 @@
 **Style lock name:** `TBT Carousel`  
 **Approved format reference:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/`  
 **Status:** review/production queue; schedule only after explicit Aaron approval per carousel.  
-**Last updated:** 2026-07-03
-**Last cron check:** 2026-07-03 13:02 JST — non-blocking loop continued past stale/review-ready #2, #3, #4, #5, #6, #8, #9, and #11. #12 `The 15-Minute Setup You Skipped` was produced, approved by Aaron, and scheduled to TBT Buffer on 2026-07-03. #11 is rejected for a full concept redo: Fat Finger Fishing is an exciting/safe AB trading strategy about getting filled on a surprise dump at an extremely low entry and selling the rebound for profit, not a phishing/trap story.
+**Last updated:** 2026-07-07
+**Last cron check:** 2026-07-07 13:00 JST — non-blocking loop continued past stale/review-ready packs. No `NEXT` or `QUEUED` item remained after #15, so the queue was extended with #16 `The Stop You Moved` and completed as a finished review-ready pack. No public scheduling; awaiting Aaron review/changes/approval.
 
 ## Locked format rules
 
@@ -48,11 +48,12 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 | 8 | The Bot Doesn’t Get Bored | REVIEW READY | THEO | DCA bots + automation |
 | 9 | Scaling Out: The Greed Tax | REVIEW READY | RAY | Scaling out profits |
 | 10 | The Quiet Money Move | DONE / approved + scheduled | DANI | Stablecoin profit preservation |
-| 11 | Fat Finger Fishing Is Real | REDO — concept rejected | MARCUS | AB surprise-dump fill + rebound profit |
+| 11 | Fat Finger Fishing Is Real | REDO REVIEW READY | MARCUS | AB surprise-dump fill + planned rebound management |
 | 12 | The 15-Minute Setup You Skipped | DONE / approved + scheduled | JESS | Secure setup + Altrady |
-| 13 | The Chart Was Telling You | NEXT | RAY | TradingView + TBO |
-| 14 | You Can’t Find What You Can’t Scan | QUEUED | THEO | Better Crypto Scanner + volume converter |
-| 15 | The Plan You Never Wrote Down | QUEUED | JESS | Trading plan + review |
+| 13 | The Chart Was Telling You | REVIEW READY | RAY | TradingView + TBO |
+| 14 | You Can’t Find What You Can’t Scan | REVIEW READY | THEO | Better Crypto Scanner + volume converter |
+| 15 | The Plan You Never Wrote Down | REVIEW READY | JESS | Trading plan + review |
+| 16 | The Stop You Moved | REVIEW READY | DANI | Stop/invalidation discipline |
 
 ---
 
@@ -297,24 +298,27 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 ## 11. Fat Finger Fishing Is Real
 
-**Status:** REDO — concept rejected by Aaron 2026-07-03. The v01 pack was wrong visually and narratively: protagonist drifted between ethnicities and the story treated this like phishing/traps. Full redo required; do not schedule v01.  
+**Status:** REDO REVIEW READY — v03 produced 2026-07-07 from Aaron’s second correction. The rejected v01 pack was phishing/trap imagery; rejected v02 was still too passive and did not sell the actual AB strategy. V03 frames Fat Finger Fishing as a low-risk/exciting AB Trading strategy: deep waiting buy orders below current price, flash-wick low fill, massively low entry, and rebound-profit potential. Review-only; not scheduled.  
 **Lead:** MARCUS — keep the same Black man throughout all seven slides.  
-**Hook:** The dump filled him while everyone else panicked.  
-**Course/concept angle:** AB Trading “Fat Finger Fishing” strategy: a safer/exciting AB tactic where surprise dumps can fill very low bids, then the rebound is sold for a large profit.  
+**Hook:** A flash wick can hand you an entry most traders never thought possible.  
+**Course/concept angle:** AB Trading “Fat Finger Fishing” strategy: traders place buy orders way below current price so a surprise dump/flash wick can fill a massively low entry; if price rebounds, the trade can pay quickly.  
 **Arc:**
 1. Fat Finger Fishing Is Real.
-2. Marcus had his bid waiting below the noise.
-3. The surprise dump hit fast.
-4. His order filled where nobody wanted it.
-5. The panic wick snapped back.
-6. He sold the rebound, not the emotion.
-7. The safest AB trades are planned before the dump.
+2. The order waits way below price.
+3. Then the wick gets ridiculous.
+4. That fill is the whole edge.
+5. Now the bounce can pay fast.
+6. Low risk. Big asymmetry.
+7. Exciting, but planned.
 
-**Image prompt direction:** same Marcus throughout; same wardrobe, face, desk/lighting. Show abstract surprise red dump wick into a low waiting bid zone, then rebound/profit-taking metaphor. No real tickers, prices, P&L, broker UI, exchange logos, or readable order book. Avoid phishing, scam, hooks, bait, passwords, or security metaphors.  
-**Compliance note:** educational AB strategy explanation; no prediction, no guaranteed fill/profit, and no exact entry/exit advice.  
+**Image prompt direction:** same Marcus throughout; same wardrobe, face, desk/lighting. Show deep waiting bids far below current price, a clear red flash wick into the bid zone, low-entry fill, and rebound/profit-taking potential. No real tickers, prices, P&L, broker UI, exchange logos, readable order book, or phishing/security metaphors.  
+**Compliance note:** educational AB strategy explanation; no exact entry/exit advice, no guaranteed fill/profit, no buy/sell command.  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-contact-sheet-v03-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/render_v03_tbt_locked.py`  
+**Rejected v02 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v02-review-pack/`  
 **Rejected v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-phishing-2026-07/v01-review-pack/`  
-**Rejected v01 render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-phishing-2026-07/render_v01_tbt_locked.py`  
-**Next action:** produce a full redo pack from corrected concept; preserve Marcus identity across all slides; do not schedule v01.
+**Next action:** await Aaron review/changes/approval. Do not schedule until explicit approval; do not let this block future queue production.
 
 ---
 
@@ -346,49 +350,55 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 ## 13. The Chart Was Telling You
 
-**Status:** NEXT — promoted after #12 review pack was produced 2026-07-03.  
+**Status:** REVIEW READY — produced 2026-07-05 as a finished 7-slide review pack using the locked TBT Carousel overlay. Review-only; not scheduled.  
 **Lead:** RAY.  
 **Hook:** The signal was on the screen. You just had not learned to read it.  
 **Course/concept angle:** TradingView, TBO Indicator, TBO active strategies.  
 **Arc:**
-1. You took the trade on a feeling.
-2. It went against you.
-3. Later, you looked at the same chart.
-4. The warning was already there.
-5. TBO does not predict. It organizes the chart.
-6. A system beats a vibe.
-7. Stop guessing. Start reading.
+1. The Chart Was Telling You.
+2. That sinking feeling.
+3. The story got loud.
+4. Go back and look.
+5. Vibes do not read charts.
+6. What TBO actually does.
+7. System beats gut.
 
-**Image prompt direction:** Ray with same chart first as confusing glow, then with abstract colored trend/indicator bands. Avoid exact “buy/sell” labels and no ticker.  
-**Compliance note:** “organizes” and “reading” language avoids signal accuracy claims.  
-**Next action:** hold until active slot.
+**Image prompt direction:** Ray with the same confusing chart first, then calmer hindsight and abstract organized TBO/TradingView structure bands. No exact buy/sell labels, ticker, prices, P&L, broker UI, or signal claims.  
+**Compliance note:** “TBO organizes the chart” language avoids prediction and accuracy claims.  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/v01-review-pack/tbt-chart-was-telling-you-contact-sheet-v01-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/chart-was-telling-you-2026-07/render_v01_tbt_locked.py`  
+**Next action:** await Aaron review/changes/approval. Do not schedule until explicit approval; do not let this block future queue production if Aaron does not respond.
 
 ---
 
 ## 14. You Can’t Find What You Can’t Scan
 
-**Status:** QUEUED.  
+**Status:** REVIEW READY — produced 2026-07-06 as a finished 7-slide review pack using the locked TBT Carousel overlay. Review-only; not scheduled.  
 **Lead:** THEO.  
 **Hook:** There are thousands of coins. You keep watching the same few.  
 **Course/concept angle:** Better Crypto Scanner, TBT Volume Converter, filtering instead of forcing trades.  
 **Arc:**
-1. You stare at the same six charts.
-2. Nothing is setting up.
-3. Boredom starts inventing trades.
-4. The real setups might be elsewhere.
-5. A scanner filters the market by your rules.
-6. You stop hunting. You start filtering.
+1. You have memorized six charts.
+2. Flat is not a setup.
+3. Boredom writes bad trades.
+4. The setup might be somewhere else.
+5. Scan by rules, not mood.
+6. Stop hunting. Start filtering.
 7. Find candidates. Do the work.
 
 **Image prompt direction:** Theo in front of abstract “market grid” that narrows into a small filtered list; include volume-converter visual metaphor as bars/flow, no symbols/prices.  
-**Compliance note:** scanner finds candidates, not winners.  
-**Next action:** hold until active slot.
+**Compliance note:** scanner finds candidates, not winners; no signal/profit guarantee.  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v01-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/v01-review-pack/tbt-you-cant-find-what-you-cant-scan-contact-sheet-v01-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/you-cant-find-what-you-cant-scan-2026-07/render_v01_tbt_locked.py`  
+**Next action:** await Aaron review/changes/approval. Do not schedule until explicit approval; do not let this block future queue production if Aaron does not respond.
 
 ---
 
 ## 15. The Plan You Never Wrote Down
 
-**Status:** QUEUED.  
+**Status:** REVIEW READY — produced 2026-07-06 as a finished 7-slide review pack using the locked TBT Carousel overlay. Review-only; not scheduled.  
 **Lead:** JESS.  
 **Hook:** If your trading plan lives only in your head, you do not have one.  
 **Course/concept angle:** creating a trading plan, trading review, Journal/process capstone.  
@@ -401,9 +411,36 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 6. Emotional-you follows them.
 7. Plan it. Trade it. Review it. Repeat.
 
-**Image prompt direction:** Jess full-circle: same apartment desk as #2, now calmer and more confident; written one-page plan as hero prop.  
-**Compliance note:** accountability/process, no outcome promise.  
-**Next action:** capstone slot after multiple strategy/tool carousels.
+**Image prompt direction:** Jess full-circle: same apartment desk as #2/#12, calmer and more confident; written one-page plan as hero prop. No Better Traders Journal cover appears, so no product-cover reference/composite risk.  
+**Compliance note:** accountability/process education; no outcome promise, no real tickers/prices/P&L/broker UI, no signal claims.  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-contact-sheet-v01-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/render_v01_tbt_locked.py`  
+**Next action:** await Aaron review/changes/approval. Do not schedule until explicit approval; do not let this block future queue production if more items are added.
+
+---
+
+## 16. The Stop You Moved
+
+**Status:** REVIEW READY — produced 2026-07-07 as a finished 7-slide review pack using the locked TBT Carousel overlay. Review-only; not scheduled.  
+**Lead:** DANI.  
+**Hook:** Moving a stop feels like control in the moment, but it usually just moves the decision farther away.  
+**Course/concept angle:** stop/invalidation discipline, rule-first risk management, emotional trade management.  
+**Arc:**
+1. The Stop You Moved.
+2. The line was clear.
+3. Then the candle got close.
+4. What moving it really does.
+5. The honest question.
+6. She wrote the rule.
+7. Calmer from here.
+
+**Image prompt direction:** Dani at the warm late-night desk, abstract charts only, visual progression from tense stop approach to written invalidation rule to calmer process. No real tickers, prices, P&L, broker UI, buy/sell labels, or signal claims.  
+**Compliance note:** risk/process education only; no outcome promise and no exact entry/exit advice.  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v01-review-pack/tbt-stop-you-moved-contact-sheet-v01-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/render_v01_tbt_locked.py`  
+**Next action:** await Aaron review/changes/approval. Do not schedule until explicit approval; do not let this block future queue production if more items are added.
 
 ---
 

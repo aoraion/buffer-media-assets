@@ -1,0 +1,86 @@
+{
+  "title": "Fat Finger Fishing Is Real",
+  "status": "REDO REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-07T05:31:55.166767+00:00",
+  "lead": "MARCUS",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Aaron correction incorporated: AB Fat Finger Fishing is a low-risk strategy placing buy orders far below current price for flash-wick low fills, very low entries, and rebound-profit potential; overlay stays educational and avoids exact entry/exit advice.",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_142135_7210ab1c.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_142244_b0d30164.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_142353_4374080c.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_142645_d0b6deb9.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_142802_dfa18078.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_142956_fbb5a20b.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_143104_73d20d84.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-slide-01-v03-review.png",
+      "sha256": "19a4029f604c81557f61ac9baf3630170178abec7ffc8ee8e7d2e336b31a9953",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-slide-02-v03-review.png",
+      "sha256": "7faf7c3baa98f837ba3d222f7c23116ad68770f328bc92b2ca04dc9d91080cd6",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-slide-03-v03-review.png",
+      "sha256": "360c73e55a7076983682f3f8b29bded78c0480687ed30ed9624edc06e069589e",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-slide-04-v03-review.png",
+      "sha256": "f755140f41b7e412bf66348f7547e248a490965b2c9cd6d10c89605033493aa3",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-slide-05-v03-review.png",
+      "sha256": "518915f4431e1ec1e30f3f80364b747ee87d999b8d8a81ea69065ca372b707f0",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-slide-06-v03-review.png",
+      "sha256": "8d8f41e8106ace7f6576a8edbd159dd6b1c544966a7fe58473135cc00e4ba51e",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-slide-07-v03-review.png",
+      "sha256": "8bb5c574c13e2945ed78043040edfe352b506f7b903bafc65d02e0752e5dd031",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/fat-finger-fishing-2026-07/v03-review-pack/tbt-fat-finger-fishing-contact-sheet-v03-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "visuals": "Marcus remains the protagonist; shows deep waiting bids, flash-wick fill, massive low-entry, rebound management, and excited/profitable AB strategy framing; no phishing/security metaphor drift",
+    "compliance": "AB Trading education only; no exact entries, tickers, prices, P&L, broker UI, buy/sell commands, or guaranteed fill/profit claims",
+    "review_gate": "review-only; not scheduled"
+  }
+}
