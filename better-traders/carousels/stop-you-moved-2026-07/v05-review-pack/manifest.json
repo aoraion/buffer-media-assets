@@ -1,0 +1,87 @@
+{
+  "title": "The Stop You Moved",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-07T07:45:54.704355+00:00",
+  "lead": "DANI",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Worker creative-director feedback incorporated before rerender; v05 applies Aaron note by generating a new slide 06 image with the handwritten rule already baked into the journal page. Slide 04 remains the v03 over-shoulder decision angle.",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_145534_4bded00a.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_145653_9cb45f30.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_150657_7b65ddd1.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_160529_9de5c49f.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_150223_5afc930e.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_164256_c9ddc014.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260707_150503_7a8089c5.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-01-v05-review.png",
+      "sha256": "f8c7b7056c3711bf4d977d2d69ff3776a6317c206817e13561063c970954110d",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-02-v05-review.png",
+      "sha256": "a9e08e1ff7c3c43ca53f059aad2f5e4e155e2f4fb13f57bb453962e3a27a40b5",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-03-v05-review.png",
+      "sha256": "a4779439379fecf75dcf1e7ab07be6902f090fd54aecc7aa5187a1cc81aa57f8",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-04-v05-review.png",
+      "sha256": "1c692e26005af98f4626181389636ddb7e3371afaf33b4db10e6c4a07a95cec7",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-05-v05-review.png",
+      "sha256": "c3cb3fae9be103909b759dafd8e8c26d887cc5435b398b0875e6cc2ca41034b5",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-06-v05-review.png",
+      "sha256": "b7153f4515506fea1bdbc00136c54c9cb32c4020c68c6da70834e6d28ebc9564",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-07-v05-review.png",
+      "sha256": "29d4b8397c55563f1a611fa096148303cfcd42216fdf0348829451ddc0e1ead3",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-contact-sheet-v05-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "visuals": "Dani remains the protagonist; v05 keeps v03 slide 04 and replaces slide 06 with a newly generated journal image where Dani\u2019s handwritten rule is part of the image, not a text overlay: My invalidation is set before I enter.",
+    "compliance": "risk/process education only; no real tickers, prices, P&L, broker UI, profit claims, or signal guarantees",
+    "journal_rule": "no Better Traders Journal cover used or composited; notebook pages are generic process props",
+    "review_gate": "review-only; not scheduled"
+  }
+}
