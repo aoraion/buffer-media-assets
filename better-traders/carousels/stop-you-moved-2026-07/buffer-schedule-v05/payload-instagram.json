@@ -1,0 +1,100 @@
+{
+  "schedulingType": "automatic",
+  "mode": "addToQueue",
+  "text": "The stop you moved usually wasn’t broken.\n\nIt was the line you agreed to before the trade got emotional.\n\nDani’s rule is simple: define invalidation before entry, then respect it when the candle gets close.\n\nThat one habit can protect your capital, your process, and your next decision.\n\nEducational content only. Not financial advice.\n\n#TheBetterTraders #TradingEducation #RiskManagement #CryptoTrading",
+  "assets": [
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-01-v05-review.png",
+        "metadata": {
+          "altText": "The Stop You Moved carousel slide 1 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-02-v05-review.png",
+        "metadata": {
+          "altText": "The Stop You Moved carousel slide 2 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-03-v05-review.png",
+        "metadata": {
+          "altText": "The Stop You Moved carousel slide 3 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-04-v05-review.png",
+        "metadata": {
+          "altText": "The Stop You Moved carousel slide 4 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-05-v05-review.png",
+        "metadata": {
+          "altText": "The Stop You Moved carousel slide 5 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-06-v05-review.png",
+        "metadata": {
+          "altText": "The Stop You Moved carousel slide 6 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/stop-you-moved-2026-07/v05-review-pack/tbt-stop-you-moved-slide-07-v05-review.png",
+        "metadata": {
+          "altText": "The Stop You Moved carousel slide 7 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    }
+  ],
+  "source": "hermes-tbt-stop-you-moved-carousel-v05",
+  "aiAssisted": false,
+  "channelId": "69d8a6b3031bfa423ceb17b5",
+  "metadata": {
+    "instagram": {
+      "type": "post",
+      "shouldShareToFeed": true
+    }
+  }
+}
