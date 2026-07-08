@@ -1,0 +1,87 @@
+{
+  "title": "The Trade You Took Tired",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-08T04:15:19.611889+00:00",
+  "lead": "RAY",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Opus copy pass completed; Hermes preserved exact The Better Traders brand name and kept all claims educational/process-only.",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260708_130344_f4471f91.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260708_130610_ffad2f95.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260708_130717_a0d03fdb.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260708_131034_2aaf1057.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260708_131146_ca5c8859.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260708_131310_e5e43829.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260708_131415_cb293606.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-01-v01-review.png",
+      "sha256": "726a9c6c8b1f82bfc36f3bdf84df42c5e408cecd36b29ce156146170e3bf443c",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-02-v01-review.png",
+      "sha256": "b3ea33e1992f3e53446183162baba9413202813373b89ee75a68c76460bdd273",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-03-v01-review.png",
+      "sha256": "6bac3ab6208d9162ab9d82385292d1b2370553a18c3bf0a753e053fb850a7b7f",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-04-v01-review.png",
+      "sha256": "830a00ae073fc10ae28214dc2c761aee7d50b04645924198654f7ccc5363f708",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-05-v01-review.png",
+      "sha256": "2c54cc18f697c6cc59251e9311d085aa480ab0941188341d40650ee29fc5b9ba",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-06-v01-review.png",
+      "sha256": "ebc7b9aabc5bfec3c32e880c2b64b4fe7ae76046c85fa040791ababb77f6ff25",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-07-v01-review.png",
+      "sha256": "474cb134c0a37f6e658a0d7f9bcdab6d9012dee3ce0ed945cba2746b399855e4",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-contact-sheet-v01-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "visuals": "Ray remains the protagonist with varied tired-to-calm story beats across the carousel",
+    "copy": "no em/en dashes; exact The Better Traders naming preserved",
+    "compliance": "fatigue/process/risk-management education only; no real tickers, prices, P&L, broker UI, profit claims, or signal guarantees",
+    "review_gate": "review-only; not scheduled"
+  }
+}
