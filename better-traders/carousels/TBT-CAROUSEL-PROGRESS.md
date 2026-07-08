@@ -4,7 +4,7 @@
 **Approved format reference:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/`  
 **Status:** review/production queue; schedule only after explicit Aaron approval per carousel.  
 **Last updated:** 2026-07-08
-**Last cron check:** 2026-07-08 13:15 JST — review gate was clear, no `NEXT` or `QUEUED` item remained after #16, so the queue was extended with #17 `The Trade You Took Tired` and completed as one finished review-ready pack. No public scheduling; review gate set to awaiting Aaron feedback/changes/approval.
+**Last cron check:** 2026-07-08 13:15 JST — review gate was clear, no `NEXT` or `QUEUED` item remained after #16, so the queue was extended with #17 `The Trade You Took Tired` and completed as one finished review-ready pack. Aaron approved it 2026-07-08; scheduled to TBT Buffer and review gate cleared.
 
 ## Locked format rules
 
@@ -54,7 +54,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 | 14 | You Can’t Find What You Can’t Scan | REVIEW READY | THEO | Better Crypto Scanner + volume converter |
 | 15 | The Plan You Never Wrote Down | REVIEW READY | JESS | Trading plan + review |
 | 16 | The Stop You Moved | DONE / SCHEDULED | DANI | Stop/invalidation discipline |
-| 17 | The Trade You Took Tired | REVIEW READY | RAY | Fatigue + risk-management discipline |
+| 17 | The Trade You Took Tired | DONE / SCHEDULED | RAY | Fatigue + risk-management discipline |
 
 ---
 
@@ -454,7 +454,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 ## 17. The Trade You Took Tired
 
-**Status:** REVIEW READY — produced 2026-07-08 as a finished 7-slide review pack using the locked TBT Carousel overlay. Review-only; not scheduled.  
+**Status:** DONE / SCHEDULED — produced 2026-07-08 as a finished 7-slide review pack using the locked TBT Carousel overlay; Aaron approved and it was scheduled to TBT Buffer the same day.  
 **Lead:** RAY.  
 **Hook:** The setup may be fine, but the trader reading it might not be.  
 **Course/concept angle:** fatigue, overtrading, checklist discipline, rest as risk management.  
@@ -472,7 +472,9 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 **Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/`  
 **Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-contact-sheet-v01-review.png`  
 **Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/render_v01_tbt_locked.py`  
-**Next action:** await Aaron review/changes/approval. Do not schedule until explicit approval; review gate is set to awaiting feedback so the cron does not produce another carousel meanwhile.
+**Buffer schedule artifacts:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-you-took-tired-2026-07/buffer-schedule-v01/`  
+**Scheduled posts:** Instagram `6a4dd872282891171fb1c17a` due 2026-07-09 07:51 JST; Facebook `6a4dd8a89dab6f72c6ad739f` due 2026-07-08 22:25 JST. X skipped because 7-slide carousel.  
+**Next action:** none; approved and scheduled. Review gate cleared so the next cron run may produce one new review pack.
 
 ---
 

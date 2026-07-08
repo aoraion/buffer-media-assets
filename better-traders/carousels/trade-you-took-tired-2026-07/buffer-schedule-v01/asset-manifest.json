@@ -1,0 +1,90 @@
+{
+  "branch": "tbt-chart-was-telling-you-20260706-v01",
+  "raw_base": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack",
+  "assets": [
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-01-v01-review.png",
+        "metadata": {
+          "altText": "The Trade You Took Tired carousel slide 1 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-02-v01-review.png",
+        "metadata": {
+          "altText": "The Trade You Took Tired carousel slide 2 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-03-v01-review.png",
+        "metadata": {
+          "altText": "The Trade You Took Tired carousel slide 3 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-04-v01-review.png",
+        "metadata": {
+          "altText": "The Trade You Took Tired carousel slide 4 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-05-v01-review.png",
+        "metadata": {
+          "altText": "The Trade You Took Tired carousel slide 5 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-06-v01-review.png",
+        "metadata": {
+          "altText": "The Trade You Took Tired carousel slide 6 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-you-took-tired-2026-07/v01-review-pack/tbt-trade-you-took-tired-slide-07-v01-review.png",
+        "metadata": {
+          "altText": "The Trade You Took Tired carousel slide 7 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    }
+  ]
+}
