@@ -1,0 +1,39 @@
+{
+  "status": "scheduled",
+  "approved_by": "Aaron Dishner won't DM YOU!",
+  "approved_at_context": "2026-07-08 Discord thread 1509755822069121114 message 1524277211560149083",
+  "github_assets": {
+    "repository": "https://github.com/aoraion/buffer-media-assets.git",
+    "branch": "tbt-chart-was-telling-you-20260706-v01",
+    "raw_urls_verified": 7,
+    "dimensions": "1080x1080 each"
+  },
+  "created_posts": [
+    {
+      "platform": "instagram",
+      "channel": "thebettertraders",
+      "channel_id": "69d8a6b3031bfa423ceb17b5",
+      "post_id": "6a4dd872282891171fb1c17a",
+      "status": "scheduled",
+      "due_at_utc": "2026-07-08T22:51:00.000Z",
+      "due_at_jst": "2026-07-09 07:51 JST",
+      "asset_count_verified": 7,
+      "verify_file": "verify-instagram-6a4dd872282891171fb1c17a.json"
+    },
+    {
+      "platform": "facebook",
+      "channel": "The Better Traders",
+      "channel_id": "69d8a6e8031bfa423ceb1857",
+      "post_id": "6a4dd8a89dab6f72c6ad739f",
+      "status": "scheduled",
+      "due_at_utc": "2026-07-08T13:25:00.000Z",
+      "due_at_jst": "2026-07-08 22:25 JST",
+      "asset_count_verified": 7,
+      "verify_file": "verify-facebook-6a4dd8a89dab6f72c6ad739f.json"
+    }
+  ],
+  "notes": [
+    "Scheduled to TBT Instagram and Facebook via /Users/bettybot/bin/buffer-tbt after dry-run validation.",
+    "TBT X channel was not used because a 7-slide carousel exceeds X image limits."
+  ]
+}
