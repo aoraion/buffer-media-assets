@@ -4,7 +4,7 @@
 **Approved format reference:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/`  
 **Status:** review/production queue; schedule only after explicit Aaron approval per carousel.  
 **Last updated:** 2026-07-09
-**Last cron check:** 2026-07-09 13:14 JST — review gate was clear, no `NEXT` or `QUEUED` item remained after #17, so the queue was extended with #18 `The Trade Was Too Big` and completed as one finished review-ready pack. Review gate set to awaiting feedback.
+**Last cron check:** 2026-07-09 13:14 JST — review gate was clear, no `NEXT` or `QUEUED` item remained after #17, so the queue was extended with #18 `The Trade Was Too Big` and completed as one finished review-ready pack. Aaron requested a slide 01 copy fix; v02 was approved and scheduled to TBT Buffer, and review gate was cleared.
 
 ## Locked format rules
 
@@ -55,7 +55,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 | 15 | The Plan You Never Wrote Down | REVIEW READY | JESS | Trading plan + review |
 | 16 | The Stop You Moved | DONE / SCHEDULED | DANI | Stop/invalidation discipline |
 | 17 | The Trade You Took Tired | DONE / SCHEDULED | RAY | Fatigue + risk-management discipline |
-| 18 | The Trade Was Too Big | REVIEW READY | MARCUS | Position sizing + emotional risk |
+| 18 | The Trade Was Too Big | DONE / SCHEDULED | MARCUS | Position sizing + emotional risk |
 
 ---
 
@@ -482,7 +482,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 
 ## 18. The Trade Was Too Big
 
-**Status:** REDO REVIEW READY — v02 produced 2026-07-09 after Aaron requested a slide 01 copy rewrite. Review-only; not scheduled.  
+**Status:** DONE / SCHEDULED — v02 produced 2026-07-09 after Aaron requested a slide 01 copy rewrite, then approved and scheduled to TBT Buffer.  
 **Lead:** MARCUS.  
 **Hook:** The setup may be valid, but oversized risk makes every candle feel personal.  
 **Course/concept angle:** position sizing, emotional risk, deciding size before the market starts moving.  
@@ -500,8 +500,10 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 **Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/`  
 **Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-contact-sheet-v02-review.png`  
 **Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/render_v02_tbt_locked.py`  
+**Buffer schedule artifacts:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/buffer-schedule-v02/`  
+**Scheduled posts:** Instagram `6a4f305696c2f64beafeb169` due 2026-07-09 22:19 JST; Facebook `6a4f307c7fbe2074292c161d` due 2026-07-09 21:40 JST. X skipped because 7-slide carousel.  
 **Previous v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v01-review-pack/`  
-**Next action:** await Aaron review/approval of v02. Do not schedule until explicit approval; review gate remains awaiting feedback.
+**Next action:** none; approved and scheduled. Review gate cleared so the next cron run may produce one new review pack.
 
 ---
 
