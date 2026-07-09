@@ -1,0 +1,87 @@
+{
+  "title": "The Trade Was Too Big",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-09T04:56:54.833597+00:00",
+  "lead": "MARCUS",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Slide 01 revised per Aaron feedback: SIZE SHOULD NOT EQUAL EXCITEMENT / When emotions run high, be careful not to increase your position size. Remaining slides preserved from v01.",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260709_130353_ae170cb9.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260709_130501_62416f6e.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260709_131354_171bd08a.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260709_130743_0f81cd62.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260709_130847_0de0f213.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260709_130948_6f6818b1.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260709_131049_2ef3abe4.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-01-v02-review.png",
+      "sha256": "503621bb3cfcf9485915a84d9f54470a73e9969d40dad03a8ee88d46bc616a70",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-02-v02-review.png",
+      "sha256": "15193b2aecb5a784cfa05e43b733dc40c371eb83f3b3d2fcd234007cf8afa741",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-03-v02-review.png",
+      "sha256": "23cb4faa0c58f37fb057a3dd158d340a6fde158fcc0606114abb2411a421ae1c",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-04-v02-review.png",
+      "sha256": "948369162cedbfffc496de31d09f8a3ef1c21cc08cf4d34ec0aa4ded733edf38",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-05-v02-review.png",
+      "sha256": "ffbc4a7dee1d24d5386fb04b7bc7587a9898a9076060aeacfc6298a24190b75b",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-06-v02-review.png",
+      "sha256": "c0d7ebac79814322bc30e8b444d7143083b2a10f2d29e5e422d259b5e3e57f9d",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-07-v02-review.png",
+      "sha256": "7e3f2c0bdd12e0a7ce7c2ce0239eabf491055258af0f92e44bf759ec931903ad",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-contact-sheet-v02-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "visuals": "Marcus remains the protagonist with varied oversized-risk to calm-rule story beats across the carousel",
+    "copy": "no em/en dashes; exact The Better Traders naming preserved",
+    "compliance": "position-sizing and process education only; no real tickers, prices, P&L, broker UI, profit claims, or signal guarantees",
+    "review_gate": "review-only; not scheduled"
+  }
+}

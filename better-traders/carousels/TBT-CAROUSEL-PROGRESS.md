@@ -3,8 +3,8 @@
 **Style lock name:** `TBT Carousel`  
 **Approved format reference:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/`  
 **Status:** review/production queue; schedule only after explicit Aaron approval per carousel.  
-**Last updated:** 2026-07-08
-**Last cron check:** 2026-07-08 13:15 JST — review gate was clear, no `NEXT` or `QUEUED` item remained after #16, so the queue was extended with #17 `The Trade You Took Tired` and completed as one finished review-ready pack. Aaron approved it 2026-07-08; scheduled to TBT Buffer and review gate cleared.
+**Last updated:** 2026-07-09
+**Last cron check:** 2026-07-09 13:14 JST — review gate was clear, no `NEXT` or `QUEUED` item remained after #17, so the queue was extended with #18 `The Trade Was Too Big` and completed as one finished review-ready pack. Review gate set to awaiting feedback.
 
 ## Locked format rules
 
@@ -55,6 +55,7 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 | 15 | The Plan You Never Wrote Down | REVIEW READY | JESS | Trading plan + review |
 | 16 | The Stop You Moved | DONE / SCHEDULED | DANI | Stop/invalidation discipline |
 | 17 | The Trade You Took Tired | DONE / SCHEDULED | RAY | Fatigue + risk-management discipline |
+| 18 | The Trade Was Too Big | REVIEW READY | MARCUS | Position sizing + emotional risk |
 
 ---
 
@@ -476,6 +477,32 @@ Use recurring characters so the carousels feel like one world. Rotate women and 
 **Scheduled posts:** Instagram `6a4dd872282891171fb1c17a` due 2026-07-09 07:51 JST; Facebook `6a4dd8a89dab6f72c6ad739f` due 2026-07-08 22:25 JST. X skipped because 7-slide carousel.  
 **Next action:** none; approved and scheduled. Review gate cleared so the next cron run may produce one new review pack.
 
+
+---
+
+## 18. The Trade Was Too Big
+
+**Status:** REDO REVIEW READY — v02 produced 2026-07-09 after Aaron requested a slide 01 copy rewrite. Review-only; not scheduled.  
+**Lead:** MARCUS.  
+**Hook:** The setup may be valid, but oversized risk makes every candle feel personal.  
+**Course/concept angle:** position sizing, emotional risk, deciding size before the market starts moving.  
+**Arc:**
+1. Size should not equal excitement.
+2. The setup was not the problem.
+3. Big size changes your brain.
+4. Risk first. Trade second.
+5. Smaller can be stronger.
+6. Write the number before the noise.
+7. Size the trade. Keep your head.
+
+**Image prompt direction:** Marcus at the late-night desk with warm amber lamp and teal monitor glow. Visual progression: oversized risk dial/tension → over-shoulder lean-in → stressed close-up → notepad/checklist pause → chair pushback/restraint → deliberate rule-writing → calm reset. No real tickers, prices, P&L, broker UI, buy/sell labels, or signal claims.  
+**Compliance note:** position-sizing/process education only; no outcome promise, no exact entry/exit advice, no profit or signal claims.  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-contact-sheet-v02-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/render_v02_tbt_locked.py`  
+**Previous v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-was-too-big-2026-07/v01-review-pack/`  
+**Next action:** await Aaron review/approval of v02. Do not schedule until explicit approval; review gate remains awaiting feedback.
+
 ---
 
 ## Approved autonomous loop prompt
@@ -519,9 +546,8 @@ Final response each run:
 
 ## Immediate next production step
 
-#9 **Scaling Out: The Greed Tax** is review-ready:
-1. Share/keep v01 review pack in front of Aaron.
-2. Wait for explicit Aaron feedback, changes, or approval.
-3. Do not schedule on silence.
-4. If approved, dry-run Buffer scheduling, live-create, fetch back post IDs, then mark DONE.
-5. Continue the factory with #10 **The Quiet Money Move** as NEXT on the next weekday run; stale review-ready items must not block production.
+#18 **The Trade Was Too Big** is review-ready:
+1. Wait for Aaron feedback, requested changes, or explicit approval.
+2. Do not schedule on silence.
+3. Keep the review gate `awaiting_feedback: true` until this carousel is completed, scheduled, rejected/closed, or explicitly cleared.
+4. If approved, dry-run Buffer scheduling, live-create, fetch back post IDs, then mark DONE and clear the review gate.
