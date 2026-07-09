@@ -1,0 +1,90 @@
+{
+  "branch": "tbt-chart-was-telling-you-20260706-v01",
+  "raw_base": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack",
+  "assets": [
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-01-v02-review.png",
+        "metadata": {
+          "altText": "The Trade Was Too Big carousel slide 1 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-02-v02-review.png",
+        "metadata": {
+          "altText": "The Trade Was Too Big carousel slide 2 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-03-v02-review.png",
+        "metadata": {
+          "altText": "The Trade Was Too Big carousel slide 3 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-04-v02-review.png",
+        "metadata": {
+          "altText": "The Trade Was Too Big carousel slide 4 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-05-v02-review.png",
+        "metadata": {
+          "altText": "The Trade Was Too Big carousel slide 5 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-06-v02-review.png",
+        "metadata": {
+          "altText": "The Trade Was Too Big carousel slide 6 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-was-too-big-2026-07/v02-review-pack/tbt-trade-was-too-big-slide-07-v02-review.png",
+        "metadata": {
+          "altText": "The Trade Was Too Big carousel slide 7 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    }
+  ]
+}
