@@ -1,0 +1,21 @@
+{
+  "brand": {"status":"PASS","evidence":"Exact The Better Traders stacked transparent mark is present only at upper left on slides 01 and 07; all overlay copy uses the locked white/Gilroy treatment."},
+  "product_fidelity": {"status":"PASS","evidence":"No product depiction is used, so there is no Journal-cover or product-reference fidelity risk."},
+  "protagonist": {"status":"PASS","evidence":"Slides 01-07 depict the same Jess character with matching ponytail, round glasses, cream knit sweater, apartment desk, and warm lamp world."},
+  "shot_variance": {"status":"PASS","evidence":"The arc moves through front three-quarter, over-shoulder, tabletop side, tight conflicted, high desk angle, tense frontal, and standing resolution shots."},
+  "emotion_copy": {"status":"PASS","evidence":"Jess moves from reflective uncertainty through hesitation and focus to controlled tension and calm resolution, matching the story copy."},
+  "text_safe": {"status":"PASS","evidence":"All overlay text sits in the dark left safe area and does not cover Jess's face, glasses, hair, or hands; copy remains readable against the gradient."},
+  "hands": {"status":"PASS","evidence":"Visible hands in slides 01-06 are anatomically plausible and naturally placed on paper, cards, pen, or notebook; slide 07 has no risky hand close-up."},
+  "handwritten_text": {"status":"PASS","evidence":"Paper and notebook surfaces are intentionally blank; there is no fake, illegible, or typed handwriting to misrepresent."},
+  "compliance": {"status":"PASS","evidence":"No tickers, prices, P&L, broker UI, exchange branding, signals, buy/sell commands, or profit claims appear; the final educational disclaimer is present."},
+  "overlay_geometry": {"status":"PASS","evidence":"All slides are square with the locked left copy column, counter and seven-dot navigation, Swipe -> on slides 01-06 only, and final-slide logo/disclaimer."},
+  "per_slide": {
+    "01":{"status":"PASS","evidence":"Jess holds a blank plan page; clean left typography field; logo, counter, dots, and Swipe -> are correctly placed."},
+    "02":{"status":"PASS","evidence":"Over-shoulder hesitation over blank cards gives a distinct story beat; no visible UI or malformed hand."},
+    "03":{"status":"PASS","evidence":"Table-level rule-card arrangement is readable as a tactile planning metaphor with only non-text geometric icons."},
+    "04":{"status":"PASS","evidence":"Tight conflicted pause over blank paper reinforces negotiability without face-text collision or fake writing."},
+    "05":{"status":"PASS","evidence":"Higher-angle deliberate pre-session writing scene shows calm focus, natural hands, and blank paper."},
+    "06":{"status":"PASS","evidence":"Controlled anxiety and the deliberate reach to the open notebook match the mid-trade copy; phone is dim and contains no UI."},
+    "07":{"status":"PASS","evidence":"Standing, calm resolution provides a distinct final beat; logo and educational footer are correctly exclusive to the closing slide."}
+  }
+}

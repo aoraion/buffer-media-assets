@@ -1,0 +1,87 @@
+{
+  "title": "The Plan You Never Wrote Down",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-06T10:22:58.829470+00:00",
+  "lead": "JESS",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Claude Opus copy pass completed; Hermes tightened overlay copy, preserved exact The Better Traders brand name, and kept all claims educational/process-only.",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260706_191020_61b19c49.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260706_191140_02f423f6.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260706_191259_7bef8aab.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260706_191421_d28e08be.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260706_191719_26ffe7db.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260706_192026_7b3007d1.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260706_192142_ec0b28d5.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-slide-01-v01-review.png",
+      "sha256": "bb4c4dd1ac8c364589f7de0858daa41d0888b5f033e5bad28ce0c13e00163450",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-slide-02-v01-review.png",
+      "sha256": "4df4ed28fb29ff768d1002f9deab9337a58cd928f97fbcbc08b0b9b3aacc9966",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-slide-03-v01-review.png",
+      "sha256": "45547c128e892a3e136dfcb0ec2b0a39c6a600df3df09d5ff3200168dd7a2d54",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-slide-04-v01-review.png",
+      "sha256": "702350ad83e6baac08234ef1235020221fcdafd7811c2b62d146259cb5e995a9",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-slide-05-v01-review.png",
+      "sha256": "2c2b5ccf0f27a5817def71f40618e3281c73e291187b7db2187ab22f5f9bbdf7",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-slide-06-v01-review.png",
+      "sha256": "82c2261c4ed0b7743662d6c12bb3cfcd310a16d4e647cc9ab642f437d9a30b99",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-slide-07-v01-review.png",
+      "sha256": "a86fb0cb0bda3a859ab5b8cc1f4bac6bb574b6f72e0cc8ef883988c16d6b04dd",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-review-pack/tbt-plan-you-never-wrote-down-contact-sheet-v01-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and dots on all slides; Swipe -> omitted on final slide",
+    "visuals": "Jess remains the protagonist with varied angles and process/emotion beats across the story",
+    "compliance": "trading plan/process education only; no real tickers, prices, P&L, broker UI, profit claims, or signal guarantees",
+    "journal_rule": "no Better Traders Journal cover used or composited; plan pages are generic/open process props",
+    "review_gate": "review-only; not scheduled"
+  }
+}
