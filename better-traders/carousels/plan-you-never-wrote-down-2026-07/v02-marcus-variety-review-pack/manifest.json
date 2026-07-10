@@ -1,0 +1,81 @@
+{
+  "carousel_id": "plan-you-never-wrote-down-2026-07",
+  "revision": "v02",
+  "title": "The Plan You Never Wrote Down",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-10T08:46:13.799928+00:00",
+  "lead": "MARCUS",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_173335_acb3fd88.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_173450_786655e9.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_173559_8421af03.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_173746_3ed6e43e.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_174121_638f6088.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_174230_77421c87.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_174344_d798ae79.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v02-marcus-variety-review-pack/tbt-plan-you-never-wrote-down-slide-01-v02-review.png",
+      "sha256": "676e3cccd02eafaabac3b826aa619024c6b3babbebfb282cddc15b9d73a0c1f0",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v02-marcus-variety-review-pack/tbt-plan-you-never-wrote-down-slide-02-v02-review.png",
+      "sha256": "f63c7dfd14a45cb1064dc6c1ac601a34d8e3e6c595b015e4afee4274b5afe031",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v02-marcus-variety-review-pack/tbt-plan-you-never-wrote-down-slide-03-v02-review.png",
+      "sha256": "115864a8558adc617cb265a8bb3a7520b25e6325ffddf30bc383f9190e08533b",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v02-marcus-variety-review-pack/tbt-plan-you-never-wrote-down-slide-04-v02-review.png",
+      "sha256": "6d26ca157964d1c79b761ead9865df8bf56b18a57cb6e41484f220ae0b209d1f",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v02-marcus-variety-review-pack/tbt-plan-you-never-wrote-down-slide-05-v02-review.png",
+      "sha256": "b17ad9c867d284e61fd1239edd660d2c81e3cafe7251ad587df58028dda3217d",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v02-marcus-variety-review-pack/tbt-plan-you-never-wrote-down-slide-06-v02-review.png",
+      "sha256": "d21fbc6a27c4763272edc24384a87bd63e9549b812413592cd91d7bff4d794c4",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v02-marcus-variety-review-pack/tbt-plan-you-never-wrote-down-slide-07-v02-review.png",
+      "sha256": "dcd2e11e5dffe9c09ed75fa1bec7bd53d3f6be15a9f641dcc196481956712cbf",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v02-marcus-variety-review-pack/tbt-plan-you-never-wrote-down-contact-sheet-v02-review.png",
+  "copy_gate": "Claude Worker creative direction used for slide-by-slide visual variance.",
+  "review_gate": "review-only; Aaron feedback/approval required."
+}

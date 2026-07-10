@@ -1,0 +1,81 @@
+{
+  "carousel_id": "plan-you-never-wrote-down-2026-07",
+  "revision": "v01",
+  "title": "The Plan You Never Wrote Down",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-10T08:26:00.376414+00:00",
+  "lead": "JESS",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_171307_7342272f.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_171511_6d50bc28.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_171646_0bedaca1.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_171807_ad2a4288.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_171922_17132045.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_172233_0996ad1b.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_172422_bafd769f.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-fresh-20260710-review-pack/tbt-plan-you-never-wrote-down-slide-01-v01-review.png",
+      "sha256": "9ba10afd10bf0899b32069646b5c2992afdf180907f01cab6197d48976d75cab",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-fresh-20260710-review-pack/tbt-plan-you-never-wrote-down-slide-02-v01-review.png",
+      "sha256": "2eb59ca98e2532167bafa544efb53ee6e094504b9857b3fccb06bc7c7c37a8ab",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-fresh-20260710-review-pack/tbt-plan-you-never-wrote-down-slide-03-v01-review.png",
+      "sha256": "1d4ebddb79c6edf8989ce9b1ed69c67b02915082a18e0f4e8b7a48d08ce7a6f9",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-fresh-20260710-review-pack/tbt-plan-you-never-wrote-down-slide-04-v01-review.png",
+      "sha256": "2b45b5bcd3eb6bd9ccdcef47b3463876547c5fdb013c6e2d8db786751eb98b9c",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-fresh-20260710-review-pack/tbt-plan-you-never-wrote-down-slide-05-v01-review.png",
+      "sha256": "652bd354bb72f97dda6b1008efbb956cfbf52528371ebc07fe27c32c03026d97",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-fresh-20260710-review-pack/tbt-plan-you-never-wrote-down-slide-06-v01-review.png",
+      "sha256": "1d52853b210f2ca0679581180b2b755fb8080511fc660af7ae22b5ae6f44fbf2",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-fresh-20260710-review-pack/tbt-plan-you-never-wrote-down-slide-07-v01-review.png",
+      "sha256": "35f815425b2cd0e9db618c7d40e680cd7ce7d7b0928f21bf57dc07ce1f482098",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/plan-you-never-wrote-down-2026-07/v01-fresh-20260710-review-pack/tbt-plan-you-never-wrote-down-contact-sheet-v01-review.png",
+  "copy_gate": "Claude Opus 4.8 draft inspected and compliance-tightened.",
+  "review_gate": "review-only; Aaron feedback/approval required."
+}
