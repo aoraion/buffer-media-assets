@@ -1,0 +1,90 @@
+{
+  "branch": "tbt-chart-was-telling-you-20260706-v01",
+  "raw_base": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack",
+  "assets": [
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-01-v04-review.png",
+        "metadata": {
+          "altText": "The Trade After the Loss carousel slide 1 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-02-v04-review.png",
+        "metadata": {
+          "altText": "The Trade After the Loss carousel slide 2 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-03-v04-review.png",
+        "metadata": {
+          "altText": "The Trade After the Loss carousel slide 3 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-04-v04-review.png",
+        "metadata": {
+          "altText": "The Trade After the Loss carousel slide 4 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-05-v04-review.png",
+        "metadata": {
+          "altText": "The Trade After the Loss carousel slide 5 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-06-v04-review.png",
+        "metadata": {
+          "altText": "The Trade After the Loss carousel slide 6 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    },
+    {
+      "image": {
+        "url": "https://raw.githubusercontent.com/aoraion/buffer-media-assets/tbt-chart-was-telling-you-20260706-v01/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-07-v04-review.png",
+        "metadata": {
+          "altText": "The Trade After the Loss carousel slide 7 of 7",
+          "dimensions": {
+            "width": 1080,
+            "height": 1080
+          }
+        }
+      }
+    }
+  ]
+}

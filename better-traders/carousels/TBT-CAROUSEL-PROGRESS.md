@@ -548,7 +548,7 @@ Final response each run:
 
 ## 19. The Trade After the Loss
 
-**Status:** DONE / APPROVED — v04 finalized by Aaron on 2026-07-10. Not scheduled; await an explicit Buffer scheduling instruction.  
+**Status:** SCHEDULED — v04 finalized by Aaron and submitted to Buffer on 2026-07-10.  
 **Lead:** DANI.  
 **Hook:** The voice saying “make it back now” is often the real risk after a loss.  
 **Course/concept angle:** revenge-trading interruption, reset rules, and process-first risk management.  
@@ -569,7 +569,9 @@ Final response each run:
 **Previous v03 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v03-review-pack/`  
 **Previous v02 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v02-review-pack/`  
 **Previous v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v01-review-pack/`  
-**Next action:** none. Finalized by Aaron; leave unscheduled until he explicitly requests Buffer scheduling. Review gate cleared so the next cron run may produce one new review pack.
+**Buffer schedule:** Instagram `thebettertraders` post `6a5087da6052a71169c807b0` due 2026-07-11 09:40 JST; Facebook `The Better Traders` post `6a5087ff1879e50466e9d2a3` due 2026-07-10 20:59 JST. Both fetched back as `scheduled` with all 7 image assets. TBT X intentionally skipped because a 7-slide carousel exceeds X image limits.  
+**Schedule artifacts:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/buffer-schedule-v04/`  
+**Next action:** none. Review gate cleared so the next cron run may produce one new review pack.
 
 ---
 
