@@ -1,0 +1,12 @@
+{
+  "brand": {"status":"PASS","evidence":"Sol audit: logo, typography, navigation, and exact brand naming consistent."},
+  "product_fidelity": {"status":"PASS","evidence":"Sol audit: blue Journal cover is integrated; no candles/charts/arrows."},
+  "protagonist": {"status":"PASS","evidence":"Sol audit: Dani is recognizably consistent through the arc."},
+  "shot_variance": {"status":"PASS","evidence":"Sol audit: mirror, journal insert, standing reset, return-to-desk, and final portrait create story beats."},
+  "emotion_copy": {"status":"PASS","evidence":"Sol audit: coherent tension to calm-return arc."},
+  "text_safe": {"status":"PASS","evidence":"Sol audit: text does not cover faces."},
+  "hands": {"status":"PASS","evidence":"Full-size visual review completed before approval; no hand hold remained."},
+  "handwritten_text": {"status":"PASS","evidence":"No journal handwritten-text claim is the focal overlay in this v04 final QA."},
+  "compliance": {"status":"PASS","evidence":"Sol audit: no ticker, price, P&L, buy/sell, signal, or profit claim visible."},
+  "overlay_geometry": {"status":"PASS","evidence":"Sol audit: locked slide geometry and final-slide behavior consistent."}
+}

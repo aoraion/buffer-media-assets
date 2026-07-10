@@ -2,9 +2,9 @@
 
 **Style lock name:** `TBT Carousel`  
 **Approved format reference:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/`  
-**Status:** review/production queue; schedule only after explicit Aaron approval per carousel.  
-**Last updated:** 2026-07-09
-**Last cron check:** 2026-07-09 13:14 JST — review gate was clear, no `NEXT` or `QUEUED` item remained after #17, so the queue was extended with #18 `The Trade Was Too Big` and completed as one finished review-ready pack. Aaron requested a slide 01 copy fix; v02 was approved and scheduled to TBT Buffer, and review gate was cleared.
+**Status:** historical production ledger; canonical future-production queue lives in `/Users/bettybot/.hermes/state/tbt-carousel-queue.json`.  
+**Last updated:** 2026-07-10
+**Current production state:** `next: null` in the canonical queue. Historical `REVIEW READY` entries below are archive/history only and must never be promoted, regenerated, resurfaced, or scheduled without Aaron explicitly selecting that exact entry. When `next` is null, the production cron exits `[SILENT]` and creates nothing.
 
 ## Locked format rules
 
