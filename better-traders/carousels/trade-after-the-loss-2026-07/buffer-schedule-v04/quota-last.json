@@ -1,0 +1,22 @@
+{
+  "tbt": {
+    "status": "ok",
+    "counted_calls_1h": 0,
+    "max_calls_1h": 30,
+    "counted_calls_24h": 31,
+    "max_calls_24h": 75,
+    "blockers_or_cautions": [],
+    "next_1h_drop_jst": null,
+    "next_24h_drop_jst": "2026-07-11T11:00:01+09:00"
+  },
+  "weather-lingo": {
+    "status": "ok",
+    "counted_calls_1h": 0,
+    "max_calls_1h": 20,
+    "counted_calls_24h": 24,
+    "max_calls_24h": 45,
+    "blockers_or_cautions": [],
+    "next_1h_drop_jst": null,
+    "next_24h_drop_jst": "2026-07-10T15:07:58+09:00"
+  }
+}

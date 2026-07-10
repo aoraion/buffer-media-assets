@@ -1,0 +1,36 @@
+{
+  "status": "scheduled",
+  "approved_by": "Aaron Dishner won't DM YOU!",
+  "approval_context": "2026-07-10 Discord thread: \u201cThis carousel is done \u2705\u201d; Aaron clarified that done means good to schedule.",
+  "github_assets": {
+    "branch": "tbt-chart-was-telling-you-20260706-v01",
+    "raw_urls_verified": 7,
+    "dimensions": "1080x1080 each"
+  },
+  "created_posts": [
+    {
+      "platform": "instagram",
+      "channel": "thebettertraders",
+      "post_id": "6a5087da6052a71169c807b0",
+      "status": "scheduled",
+      "due_at_utc": "2026-07-11T00:40:00.000Z",
+      "due_at_jst": "2026-07-11 09:40 JST",
+      "asset_count_verified": 7,
+      "verify_file": "verify-instagram-6a5087da6052a71169c807b0.json"
+    },
+    {
+      "platform": "facebook",
+      "channel": "The Better Traders",
+      "post_id": "6a5087ff1879e50466e9d2a3",
+      "status": "scheduled",
+      "due_at_utc": "2026-07-10T11:59:00.000Z",
+      "due_at_jst": "2026-07-10 20:59 JST",
+      "asset_count_verified": 7,
+      "verify_file": "verify-facebook-6a5087ff1879e50466e9d2a3.json"
+    }
+  ],
+  "notes": [
+    "Scheduled via Buffer after dry-run and fetched-back verification.",
+    "TBT X skipped because a 7-slide carousel exceeds X image limits."
+  ]
+}
