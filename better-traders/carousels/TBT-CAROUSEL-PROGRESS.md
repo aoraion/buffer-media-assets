@@ -571,14 +571,4 @@ Final response each run:
 **Previous v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v01-review-pack/`  
 **Buffer schedule:** Instagram `thebettertraders` post `6a5087da6052a71169c807b0` due 2026-07-11 09:40 JST; Facebook `The Better Traders` post `6a5087ff1879e50466e9d2a3` due 2026-07-10 20:59 JST. Both fetched back as `scheduled` with all 7 image assets. TBT X intentionally skipped because a 7-slide carousel exceeds X image limits.  
 **Schedule artifacts:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/buffer-schedule-v04/`  
-**Next action:** none. Review gate cleared so the next cron run may produce one new review pack.
-
----
-
-## Immediate next production step
-
-#19 **The Trade After the Loss** is review-ready:
-1. Wait for Aaron feedback, requested changes, or explicit approval.
-2. Do not schedule on silence.
-3. Keep the review gate `awaiting_feedback: true` until this carousel is completed, scheduled, rejected/closed, or explicitly cleared.
-4. If approved, dry-run Buffer scheduling, live-create, fetch back post IDs, then mark DONE and clear the review gate.
+**Next action:** none. This completed carousel is historical evidence only. The canonical queue is currently empty; the production cron must emit `[SILENT]` until an explicit new candidate is placed in `/Users/bettybot/.hermes/state/tbt-carousel-queue.json`.
