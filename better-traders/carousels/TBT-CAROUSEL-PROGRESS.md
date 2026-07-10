@@ -548,7 +548,7 @@ Final response each run:
 
 ## 19. The Trade After the Loss
 
-**Status:** REDO REVIEW READY — v04 produced 2026-07-10 after Aaron clarified the blue Better Traders Journal cover has no candlestick/candle graphics. Review-only; not scheduled.  
+**Status:** DONE / APPROVED — v04 finalized by Aaron on 2026-07-10. Not scheduled; await an explicit Buffer scheduling instruction.  
 **Lead:** DANI.  
 **Hook:** The voice saying “make it back now” is often the real risk after a loss.  
 **Course/concept angle:** revenge-trading interruption, reset rules, and process-first risk management.  
@@ -569,7 +569,7 @@ Final response each run:
 **Previous v03 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v03-review-pack/`  
 **Previous v02 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v02-review-pack/`  
 **Previous v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v01-review-pack/`  
-**Next action:** await Aaron approval of v04. Do not schedule until explicit approval. The review gate remains `awaiting_feedback: true` so no further carousel is produced until this one is completed, scheduled, rejected/closed, or explicitly cleared.
+**Next action:** none. Finalized by Aaron; leave unscheduled until he explicitly requests Buffer scheduling. Review gate cleared so the next cron run may produce one new review pack.
 
 ---
 
