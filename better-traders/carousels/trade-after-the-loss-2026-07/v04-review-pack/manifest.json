@@ -1,0 +1,87 @@
+{
+  "title": "The Trade After the Loss",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-10T05:21:20.386851+00:00",
+  "lead": "DANI",
+  "style_lock": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-almost-chased-2026-06/v29-aaron-text-logo-swipe-fix/",
+  "copy_gate": "Slide 07 regenerated per Aaron correction using the blue Better Traders Journal cover reference with no candlestick/arrow/chart graphic. Dani\u2019s hand may cover part of the cover title; slides 01-06 are preserved from v01.",
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_130311_b535ecf4.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_130455_11bb8af1.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_130614_974771b6.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_130727_e808a88a.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_130844_fb0aa8c6.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_131144_0a824375.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260710_142007_5a9e96cb.png"
+  },
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-01-v04-review.png",
+      "sha256": "904e37bc60c0897cfc0aefc0a5a6307cfbe8b0ebef5530b4b8b7d84fec6a4e20",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-02-v04-review.png",
+      "sha256": "6e97ec9705a55a671d4c0593f814267ae596882842613903c795edc142217cdd",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-03-v04-review.png",
+      "sha256": "6d258e8d5bf53c13619cab26dfc6a87f5fb4494f27e6c815072cd7dada4caade",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-04-v04-review.png",
+      "sha256": "6d448f03d36540900beddd6d55c4103b1580ac9c3046b59257cbd4aefd7dc267",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-05-v04-review.png",
+      "sha256": "38fb71c409bdec906a02fb4e98c95a098735086c167e7521e2e965c4d5badf18",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-06-v04-review.png",
+      "sha256": "d0613a4f52db069e72eb59c589f713f211513934006a3cf956d5dbc19303bfeb",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-slide-07-v04-review.png",
+      "sha256": "914ca1fc276b6bf268c35485db6777bab95e8220966c791669b9cc9db75e53f1",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v04-review-pack/tbt-trade-after-the-loss-contact-sheet-v04-review.png",
+  "qa": {
+    "dimensions": "all slides exported 1080x1080; contact sheet rendered",
+    "logo": "transparent stacked TBT logo only on slide 1 and slide 7",
+    "nav": "bottom counter and centered dots on all slides; Swipe -> omitted on final slide",
+    "visuals": "Dani remains the protagonist with varied tension, reflection, rule-writing, reset, and calm-resolution beats",
+    "copy": "exact The Better Traders naming preserved; no em or en dashes",
+    "compliance": "process and risk-management education only; no tickers, prices, P&L, broker UI, signal claims, or profit guarantees",
+    "review_gate": "review-only; not scheduled"
+  }
+}
