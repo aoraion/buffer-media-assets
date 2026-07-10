@@ -548,7 +548,7 @@ Final response each run:
 
 ## 19. The Trade After the Loss
 
-**Status:** REDO REVIEW READY — v02 produced 2026-07-10 after Aaron requested a new final slide with Dani’s hand over the Better Traders Journal cover. Review-only; not scheduled.  
+**Status:** REDO REVIEW READY — v03 produced 2026-07-10 after Aaron clarified the final slide must use the blue Better Traders Journal cover. Review-only; not scheduled.  
 **Lead:** DANI.  
 **Hook:** The voice saying “make it back now” is often the real risk after a loss.  
 **Course/concept angle:** revenge-trading interruption, reset rules, and process-first risk management.  
@@ -561,13 +561,14 @@ Final response each run:
 6. Return, then check.
 7. Calm is the edge.
 
-**Image direction:** Dani moves from post-loss tension to reflection, rule-writing, a physical reset, and a calm return. Distinct perspectives include portrait, profile, over-the-shoulder reflection, high-angle notebook, wide window break, chair-level return, and a calm final portrait with her hand over the Better Traders Journal cover. No real tickers, prices, P&L, broker UI, buy/sell labels, or signal/profit claims.  
+**Image direction:** Dani moves from post-loss tension to reflection, rule-writing, a physical reset, and a calm return. Distinct perspectives include portrait, profile, over-the-shoulder reflection, high-angle notebook, wide window break, chair-level return, and a calm final portrait with her hand over the **blue** Better Traders Journal cover with white title and green B/candlestick motif. No real tickers, prices, P&L, broker UI, buy/sell labels, or signal/profit claims.  
 **Compliance note:** process and risk-management education only; no outcome promise or exact trading instruction.  
-**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v02-review-pack/`  
-**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v02-review-pack/tbt-trade-after-the-loss-contact-sheet-v02-review.png`  
-**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/render_v02_tbt_locked.py`  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v03-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v03-review-pack/tbt-trade-after-the-loss-contact-sheet-v03-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/render_v03_tbt_locked.py`  
+**Previous v02 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v02-review-pack/`  
 **Previous v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v01-review-pack/`  
-**Next action:** await Aaron approval of v02. Do not schedule until explicit approval. The review gate remains `awaiting_feedback: true` so no further carousel is produced until this one is completed, scheduled, rejected/closed, or explicitly cleared.
+**Next action:** await Aaron approval of v03. Do not schedule until explicit approval. The review gate remains `awaiting_feedback: true` so no further carousel is produced until this one is completed, scheduled, rejected/closed, or explicitly cleared.
 
 ---
 
