@@ -546,9 +546,34 @@ Final response each run:
 - If blocked: say exactly what blocked production and what needs fixing next.
 ```
 
+## 19. The Trade After the Loss
+
+**Status:** REDO REVIEW READY — v02 produced 2026-07-10 after Aaron requested a new final slide with Dani’s hand over the Better Traders Journal cover. Review-only; not scheduled.  
+**Lead:** DANI.  
+**Hook:** The voice saying “make it back now” is often the real risk after a loss.  
+**Course/concept angle:** revenge-trading interruption, reset rules, and process-first risk management.  
+**Arc:**
+1. The trade after the loss.
+2. Losses do not owe you a payback.
+3. Name the urge.
+4. Write the reset rule.
+5. Step away from the desk.
+6. Return, then check.
+7. Calm is the edge.
+
+**Image direction:** Dani moves from post-loss tension to reflection, rule-writing, a physical reset, and a calm return. Distinct perspectives include portrait, profile, over-the-shoulder reflection, high-angle notebook, wide window break, chair-level return, and a calm final portrait with her hand over the Better Traders Journal cover. No real tickers, prices, P&L, broker UI, buy/sell labels, or signal/profit claims.  
+**Compliance note:** process and risk-management education only; no outcome promise or exact trading instruction.  
+**Review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v02-review-pack/`  
+**Contact sheet:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v02-review-pack/tbt-trade-after-the-loss-contact-sheet-v02-review.png`  
+**Render script:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/render_v02_tbt_locked.py`  
+**Previous v01 review pack:** `/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/trade-after-the-loss-2026-07/v01-review-pack/`  
+**Next action:** await Aaron approval of v02. Do not schedule until explicit approval. The review gate remains `awaiting_feedback: true` so no further carousel is produced until this one is completed, scheduled, rejected/closed, or explicitly cleared.
+
+---
+
 ## Immediate next production step
 
-#18 **The Trade Was Too Big** is review-ready:
+#19 **The Trade After the Loss** is review-ready:
 1. Wait for Aaron feedback, requested changes, or explicit approval.
 2. Do not schedule on silence.
 3. Keep the review gate `awaiting_feedback: true` until this carousel is completed, scheduled, rejected/closed, or explicitly cleared.
