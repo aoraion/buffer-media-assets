@@ -1,0 +1,128 @@
+{
+  "carousel_id": "rule-you-broke-because-you-were-bored-2026-07",
+  "revision": "v04",
+  "title": "The Rule You Broke Because You Were Bored",
+  "status": "REVIEW READY",
+  "review_only": true,
+  "scheduled": false,
+  "created_at": "2026-07-21T06:58:12.399775+00:00",
+  "lead": "CLAIRE \u2014 white/Caucasian woman, late 30s; navy sweater continuity lock",
+  "storyboard": [
+    "confident late-night chart review in office",
+    "standing kitchen chart check",
+    "living-room phone temptation",
+    "decisive stop at home-office laptop",
+    "contented reading-nook restraint",
+    "calm balcony reset",
+    "confident no-action payoff in living room"
+  ],
+  "base_images": {
+    "1": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260721_154330_6640f20b.png",
+    "2": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260721_154453_a903eae1.png",
+    "3": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260721_154616_5b1262ba.png",
+    "4": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260721_154946_f0773105.png",
+    "5": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260721_155142_9d7de7aa.png",
+    "6": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260721_155518_de471e69.png",
+    "7": "/Users/bettybot/.hermes/cache/images/openai_codex_gpt-image-2-medium_20260721_155642_11ad60c7.png"
+  },
+  "native_base_dimensions": [
+    [
+      1254,
+      1254
+    ],
+    [
+      1254,
+      1254
+    ],
+    [
+      1254,
+      1254
+    ],
+    [
+      1254,
+      1254
+    ],
+    [
+      1254,
+      1254
+    ],
+    [
+      1254,
+      1254
+    ],
+    [
+      1254,
+      1254
+    ]
+  ],
+  "slides": [
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/rule-you-broke-because-you-were-bored-2026-07/v04-claire-poses-locations-review-pack/tbt-rule-you-broke-because-you-were-bored-slide-01-v04-review.png",
+      "sha256": "5d5f098c43f4ea7c5cf96980585284e0649885ce49d1771a7baf87c82f1efa40",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/rule-you-broke-because-you-were-bored-2026-07/v04-claire-poses-locations-review-pack/tbt-rule-you-broke-because-you-were-bored-slide-02-v04-review.png",
+      "sha256": "e9d0b6c021e80db942cce81e090344fbbf18f02d083de2b5b712645904e85a88",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/rule-you-broke-because-you-were-bored-2026-07/v04-claire-poses-locations-review-pack/tbt-rule-you-broke-because-you-were-bored-slide-03-v04-review.png",
+      "sha256": "ed58c47a27863ed51064df04bf3353a4aebc7ea6199b0fe0871dec94a154aa90",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/rule-you-broke-because-you-were-bored-2026-07/v04-claire-poses-locations-review-pack/tbt-rule-you-broke-because-you-were-bored-slide-04-v04-review.png",
+      "sha256": "7241506307829c7ec70c867257a025e7ae4e3a107a20a1adcabd9bf060188e95",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/rule-you-broke-because-you-were-bored-2026-07/v04-claire-poses-locations-review-pack/tbt-rule-you-broke-because-you-were-bored-slide-05-v04-review.png",
+      "sha256": "df38d247aa2fe356aabedcd0450d73534f35d9976c773dd6eafddaf112d30a6f",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/rule-you-broke-because-you-were-bored-2026-07/v04-claire-poses-locations-review-pack/tbt-rule-you-broke-because-you-were-bored-slide-06-v04-review.png",
+      "sha256": "3b9dca13405a32df2bb581c8e6c1ec3e9590dbcf820e81103df3b1c64069e6b7",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    },
+    {
+      "path": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/rule-you-broke-because-you-were-bored-2026-07/v04-claire-poses-locations-review-pack/tbt-rule-you-broke-because-you-were-bored-slide-07-v04-review.png",
+      "sha256": "f6a5d58db6031bea92365c7cc314a5c3a1e834ffd9d17ca95066afa725c991d8",
+      "dimensions": [
+        1080,
+        1080
+      ]
+    }
+  ],
+  "contact_sheet": "/Users/bettybot/clawd/buffer-media-assets/better-traders/carousels/rule-you-broke-because-you-were-bored-2026-07/v04-claire-poses-locations-review-pack/tbt-rule-you-broke-because-you-were-bored-contact-sheet-v04-review.png",
+  "qa": {
+    "native_square_bases": true,
+    "final_square_slides": true,
+    "nighttime_continuity": true,
+    "wardrobe_continuity": true,
+    "computer_or_phone_in_every_beat": true,
+    "pose_and_location_variety": true,
+    "visible_chart_context": true,
+    "confident_outcome_emotion": true
+  },
+  "review_gate": "review-only; v01, v02, and v03 are rejected/superseded; Aaron feedback/approval required."
+}
